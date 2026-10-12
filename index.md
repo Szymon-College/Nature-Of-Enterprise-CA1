@@ -1,4 +1,13 @@
-# Genral Notes
+# [Insert topic name here]
 -jw
 ## Roles
---hw
+### Szymon
+-role
+### Jay
+-role
+### Krystian
+-role
+### Leo
+-role
+### Ben
+-role
