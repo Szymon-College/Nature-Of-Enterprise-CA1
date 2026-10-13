@@ -1,4 +1,4 @@
-# Transforming of Streaming Services
+# Transformation of Streaming Services
 ## Roles
 ### Szymon
 Introduction and conclusion
