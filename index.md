@@ -20,3 +20,4 @@ History
 - 1 commit into the repo each week from each member
 
 ### [References for formatting within GitHub](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+### [Another reference guide for formatting within GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
