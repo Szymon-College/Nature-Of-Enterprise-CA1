@@ -1,13 +1,18 @@
-# [Insert topic name here]
--jw
+# Transforming of Streaming Services
 ## Roles
 ### Szymon
--role
+-Introduction and conclusion
 ### Jay
--role
+-First viewpoint
 ### Krystian
--role
+-Second viewpoint
 ### Leo
--role
+-Ethics
 ### Ben
--role
+-History
+## Other info
+-Word Count: 3000-3500 words (excluding references)
+-600 each
+-Due Date: Friday, 27th November 5pm sharp
+-Submission Method: Via Brightspace
+-Late Penalty: 5% per day (capped at 5 days)
