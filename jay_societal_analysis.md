@@ -14,7 +14,7 @@
 
 - Must be in professional slides
 
-- 13/10/2026
+###########
 
 - Research Materials: 1. "httpsjournal.scimadly.comindex.phpjpmbartic" , 2. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi" , 3. "Music Streaming around the World" - David Hesmondhalgh, 4. "The Cultural Industries" - David Hesmondhalgh
 
