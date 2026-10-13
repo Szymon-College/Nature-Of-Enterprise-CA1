@@ -13,3 +13,7 @@
 # 13/10/2026
 
 # Research Materials: 1. "httpsjournal.scimadly.comindex.phpjpmbartic" , 2. "
+
+# Keypoints for Societal Analysis: 1. "Changes in entertainment habits and consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
+
+
