@@ -9,7 +9,7 @@ Second viewpoint
 ### Leo
 Ethics
 ### Ben
-History
+Historical Development
 ## Each member creates their own file with their name and their topic. A presentation file will be created later with the proper format.
 ## Other info
 - Word Count: 3000-3500 words (excluding references)
