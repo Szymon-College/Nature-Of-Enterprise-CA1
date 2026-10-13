@@ -10,6 +10,10 @@
 
 # Must do:  (Week 1) - Search reliable resources for "Societal Analysis"
 
+# Must have 3 minute video in relation to my research: Clear presentation, slides and voice
+
+# Must be in professional slides
+
 # 13/10/2026
 
 # Research Materials: 1. "httpsjournal.scimadly.comindex.phpjpmbartic" , 2. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi" , 3. "Music Streaming around the World" - David Hesmondhalgh, 4. "The Cultural Industries" - David Hesmondhalgh
@@ -41,7 +45,6 @@
 # - People are prone to interact less with people. The lack of having to go out to buy and communicate with people. This will develop an antisocial persona. It will not be beneficial in the long term especially for the individual's career or life in general. 
 
 ### NOT THE FINAL WORK ###
-
 
 # References:
 
