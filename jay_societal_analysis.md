@@ -4,7 +4,7 @@
 
 # Viewpoint analysis - "Transforming of Streaming Services (Physical Media to Netflix/Spotify)
 
-# Societal Analysis - "Detailed examination through chosen lens"
+###### Societal Analysis - "Detailed examination through chosen lens"
 
 # Due Date = Friday, 27th November, 5pm
 
