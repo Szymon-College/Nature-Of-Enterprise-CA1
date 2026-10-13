@@ -18,3 +18,5 @@ History
 - Submission Method: Via Brightspace
 - Late Penalty: 5% per day (capped at 5 days)
 - 1 commit into the repo each week from each member
+
+### [References for formatting within GitHub](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
