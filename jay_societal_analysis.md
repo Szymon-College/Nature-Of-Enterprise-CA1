@@ -40,6 +40,8 @@
 
 # - People are prone to interact less with people. The lack of having to go out to buy and communicate with people. This will develop an antisocial persona. It will not be beneficial in the long term especially for the individual's career or life in general. 
 
+### NOT THE FINAL WORK ###
+
 
 # References:
 
