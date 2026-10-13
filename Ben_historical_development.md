@@ -25,9 +25,12 @@ First Blockbusters
 1990's
 DvDs
 Optical discs
-2000-2010
-Blue-ray and 4k
-Huge market for home films with entire companies focusing on making films for the market (Disney sequels)   
+Huge market for home films with entire companies focusing on making films for the market (Disney sequels) 
+2000's
+Blue-ray
+Spotify- 2006
+NETFLIX founded 2007
+The seventh generation of consoles Xbox 360 , Playstation 3 and the Wii all launch with or added an online store to their systems where consumers could buy games on the console itself removing the middle men like blockbuster, gamestop and major retailers  
 
 2010s
 Collapsed of rental stores and stores relating to physical media  
