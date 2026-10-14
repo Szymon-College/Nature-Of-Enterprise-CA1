@@ -22,25 +22,29 @@
 
 - Brainstorm
 
-- Changes in entertainment habits and consumer behaviour
+# Changes in entertainment habits and consumer behaviour
 
-- People had to go out of their houses, to rent dvd's from stores such as xtravision or gamestop or golden disc or game shop. In the past, Netflix had a system where you choose the films you want to watch, those films are then sent to the customer by email and expected to return it after 2 weeks. Nowadays people can simply watch films from the cloud such as Netflix or listen to music such as spotify. Or in playstation or xbox the game is in their database server so you can simply purchase this only without a physical copy and you can play these straight away. With this method people do not get out as much, so people wont be much active. People won't have to line up for early day releases such as Call of Duty or Grand Theft Auto being released the day after. 
+In the past, people had to leave their homes to rent DVDs from stores such as Xtra-vision, GameStop, Golden Discs, or GAME. Netflix also operated a service that allowed customers to choose films online, receive the DVDs by post, and return them within two weeks.
 
-- Consumer behaviour 
+Nowadays, people can stream films through services such as Netflix or listen to music on platforms such as Spotify. Similarly, PlayStation and Xbox users can purchase and download games directly from online stores without needing physical copies. Although this allows people to access entertainment immediately, it may make them less active and reduce social interaction. Consumers also no longer need to queue outside shops for release-day copies of games such as Call of Duty or Grand Theft Auto.
 
-- Ever since physical copies have been phasing out, films, games or music are now in the cloud. Companies have become too determined in releasing these products at such a high price. People have become more skeptical when trying to buy these cost. Example - Netflix initially charged €6.99 a month, now it costs €11.99 a month. Golden disc and hmv were the prime store in selling cd's for music. They only consisted of rought 10 - 30 songs depending on the cd. People would have collection of cd's at home. Since spotify was released in 2008, it became one of the leading music streaming service. People did not have to go out of their way to buy cd's. Spotify allows you store as much songs as you want depending the device storage. People can play their songs anywhere, anytime, and any equipment so long as it is connected to the internet. People find these extremely easy since they do not have to find a radio box to play their music. 
+# Consumer behaviour 
 
-- Cultural Diversity
+As physical copies have gradually been phased out, films, games, and music have increasingly become available through cloud-based services. However, companies often charge high prices for these products, making consumers more hesitant to purchase them. For example, Netflix initially charged €6.99 per month, whereas its subscription price later increased to €11.99 per month. Golden Discs and HMV were once among the leading retailers of music CDs, which typically contained approximately 10 to 30 songs. As a result, many people built large CD collections at home.
 
-- People began to discover Japanese culture such as Japanese anime. People seem to be invested in watching these animes. Exposure to korean culture since korean films or dramas are a big thing for people nowadays like squid game. Allows people to listen to other countries music such as k pop, j pop, chinese pop, american country music. In modern times, people are more diversed and diversifying culture as a whole.
+Since its launch in 2008, Spotify has become one of the world’s leading music-streaming services. Consumers no longer need to visit shops to purchase CDs, as Spotify allows them to save numerous songs to their online libraries and download music according to their device’s storage capacity. They can listen to music anywhere, at any time, and on any compatible device with an internet connection. This convenience means that people no longer need a separate CD player or stereo to listen to music.
 
-- Mental wellbeing, screen time and personal habits
+# Cultural Diversity
 
-- If people are not made to go outside to rent dvds and simply stay at home. It takes a toll on their wellbeing. People would be more socially excluded since they arent exposed to society. People would develop procrastination since there are many films or games or music online. People would spend more time on the screen developing, "dry eyes" - high exposure of screen time, develop bad sitting postures, since people unconsciously look at the screen without paying attention to thier posture. People would spend so much time online, they become more anti-social, not frequently communicating with people outside of their homes. People would develop bad sleeping habits especially common in younger people. An example would be a young teenageer playing call of duty in the middle of the night during their school days. It will also make an impact of their education. People wont be keen in looking after their personal hygiene as well. 
+Streaming platforms have allowed people to discover and engage with cultures from around the world. For example, Japanese anime has gained a large international audience, while South Korean films and television dramas, such as Squid Game, have increased global interest in Korean culture. Music-streaming services also allow listeners to explore genres from other countries, including K-pop, J-pop, Chinese pop, and American country music. As a result, modern audiences are exposed to a wider range of cultural influences, helping to promote cultural diversity.
 
-- Social interaction
+# Mental wellbeing, screen time and personal habits
 
-- People are prone to interact less with people. The lack of having to go out to buy and communicate with people. This will develop an antisocial persona. It will not be beneficial in the long term especially for the individual's career or life in general. 
+As people are no longer required to leave their homes to rent DVDs or purchase other forms of entertainment, they may spend more time indoors. This can negatively affect their mental and physical well-being by increasing social isolation and reducing opportunities to interact with others. The wide availability of films, games, and music online may also encourage procrastination and excessive screen time. Prolonged use of digital devices can contribute to dry eyes and poor posture, particularly when users do not take regular breaks or pay attention to how they are sitting. Excessive screen time may also disrupt sleeping habits, especially among younger people. For example, a teenager who plays Call of Duty late at night on a school day may struggle to concentrate in class, negatively affecting their education. In some cases, excessive use of online entertainment may also cause people to neglect exercise, personal hygiene, and other daily responsibilities.
+
+# Social interaction
+
+People may interact less with others because they no longer need to leave their homes to purchase entertainment. This lack of face-to-face communication can lead to social isolation and make it more difficult for individuals to develop interpersonal skills. In the long term, this may negatively affect their relationships, careers, and overall quality of life.
 
 ### NOT THE FINAL WORK ###
 
