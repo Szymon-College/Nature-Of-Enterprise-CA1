@@ -16,7 +16,7 @@
 
 ###########
 
-- Research Materials: 1. "httpsjournal.scimadly.comindex.phpjpmbartic" , 2. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi" , 3. "Music Streaming around the World" - David Hesmondhalgh, 4. "The Cultural Industries" - David Hesmondhalgh
+- Research Materials: 1. "httpsjournal.scimadly.comindex.phpjpmbartic" , 2. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi" , 3. "Music Streaming around the World" - David Hesmondhalgh, 4. "The Cultural Industries" - David Hesmondhalgh , 5. "Ofcom — Media Nations 2025 / 2026" , 6. "Ofcom — Online Nation 2025" , 7. "European Commission — Digital culture / audiovisual media" , 8. "4. European Commission — Discoverability of diverse cultural content" , 9. "WHO — Screen time / sedentary behaviour" , 10. "Pew Research Center — Teen screen use" . 
 
 - Keypoints for Societal Analysis: 1. "Changes in entertainment habits and consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
 
