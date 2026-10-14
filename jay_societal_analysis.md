@@ -20,7 +20,7 @@
 
 - Keypoints for Societal Analysis: 1. "Changes in entertainment habits and consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
 
-- Brainstorm
+# Brainstorm ONLY
 
 # Changes in entertainment habits and consumer behaviour
 
