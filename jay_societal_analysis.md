@@ -26,7 +26,9 @@
 
 # Changes in entertainment habits and consumer behaviour
 
-- People had to go out of their houses, to rent dvd's from stores such as xtravision or gamestop or golden disc or game shop. In the past, Netflix had a system where you choose the films you want to watch, those films are then sent to the customer by email and expected to return it after 2 weeks. Nowadays people can simply watch films from the cloud such as Netflix or listen to music such as spotify. Or in playstation or xbox the game is in their database server so you can simply purchase this only without a physical copy and you can play these straight away. With this method people do not get out as much, so people wont be much active. People won't have to line up for early day releases such as Call of Duty or Grand Theft Auto being released the day after. 
+- In the past, people had to go out of their houses, to rent dvd's from stores such as xtravision or or golden disc or game shop. Or in playstation or xbox the game is in their database server so you can simply purchase this only without a physical copy and you can play these straight away. With this method people do not get out as much, so people wont be much active. People won't have to line up for early day releases such as Call of Duty or Grand Theft Auto being released the day after. 
+
+- In the past, Netflix had a system where you choose the films and then sent by mail and the returning of the film is expected after 2 weeks. Nowadays, people simply watch films from cloud streaming services such as Netflix or listen to music online such as spotify.
 
 # Consumer behaviour 
 
