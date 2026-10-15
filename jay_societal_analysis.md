@@ -18,7 +18,17 @@
 
 ###########
 
-- Research Materials: 1. "httpsjournal.scimadly.comindex.phpjpmbartic" , 2. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi" , 3. "Music Streaming around the World" - David Hesmondhalgh, 4. "The Cultural Industries" - David Hesmondhalgh , 5. "Ofcom — Media Nations 2025 / 2026" , 6. "Ofcom — Online Nation 2025" , 7. "European Commission — Digital culture / audiovisual media" , 8. "4. European Commission — Discoverability of diverse cultural content" , 9. "WHO — Screen time / sedentary behaviour" , 10. "Pew Research Center — Teen screen use" . 
+- Research Materials:
+  1. "httpsjournal.scimadly.comindex.phpjpmbartic" ,
+  2. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi" ,
+  3. "Music Streaming around the World" - David Hesmondhalgh,
+  4. "The Cultural Industries" - David Hesmondhalgh ,
+  5. "Ofcom — Media Nations 2025 / 2026" ,
+  6. "Ofcom — Online Nation 2025" ,
+  7. "European Commission — Digital culture / audiovisual media" ,
+  8. "European Commission — Discoverability of diverse cultural content" ,
+  9. "WHO — Screen time / sedentary behaviour" ,
+  10. "Pew Research Center — Teen screen use" . 
 
 - Keypoints for Societal Analysis: 1. "Changes in entertainment habits and consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
 
@@ -26,7 +36,7 @@
 
 # Changes in entertainment habits and consumer behaviour
 
-- In the past, people had to go out of their houses, to rent dvd's from stores such as xtravision or or golden disc or game shop. Or in playstation or xbox the game is in their database server so you can simply purchase this only without a physical copy and you can play these straight away. With this method people do not get out as much, so people wont be much active. People won't have to line up for early day releases such as Call of Duty or Grand Theft Auto being released the day after. 
+- In the past, people had to go out of their houses, to rent dvd's or buy music or buy games from stores such as xtravision or or golden disc or game shop. Or in playstation or xbox the game is in their database server so you can simply purchase this only without a physical copy and you can play these straight away. With this method people do not get out as much, so people wont be much active. People won't have to line up for early day releases such as Call of Duty or Grand Theft Auto being released the day after. 
 
 - In the past, Netflix had a system where you choose the films and then sent by mail and the returning of the film is expected after 2 weeks. Nowadays, people simply watch films from cloud streaming services such as Netflix or listen to music online such as spotify.
 
