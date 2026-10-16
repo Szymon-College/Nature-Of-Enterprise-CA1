@@ -16,3 +16,11 @@
 **This raises questions about how much control consumers actually have over their entertainment.**
 **Streaming companies should be able to clearly explain what their customers are paying for and including any restrictions on downloading and accessing content.**
 **The European Commission(n,d)also outlines consumer protections for digital services, showing why clear digital rights are important.**
+
+# Digital Exclusion #
+**Streaming also creates difficulties for people that don't have a reliable internet connection and according to Central Statistics Office(2025),**
+approximately 95% of Irish households had internet access in 2025 which means that a very small proportion of households had no internet access.**
+**Because most physical rental shops have now become less common, people who cannot access streaming services may have less entertainment options,
+especially the elderly or those who are unfamiliar with digital technology and may find the transition quiet challenging.**
+**Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
+access movies, games and music.**
