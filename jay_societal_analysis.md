@@ -19,17 +19,17 @@
 ###########
 
 - Research Materials:
-  1. "httpsjournal.scimadly.comindex.phpjpmbartic"
-  2. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi"
-  3. "Music Streaming around the World" - David Hesmondhalg
-  4. "The Cultural Industries" - David Hesmondhalgh
-  5. "Ofcom — Media Nations 2025 / 2026"
-  6. "Ofcom — Online Nation 2025"
-  7. "European Commission — Digital culture / audiovisual media"
-  8. "European Commission — Discoverability of diverse cultural content"
-  9. "WHO — Screen time / sedentary behaviour"
-  10. "Pew Research Center — Teen screen use" 
+  1. "Streaming Culture: Subscription Platforms and the Unending Consumption of Culture - David Arditi"
+  2. "Music Streaming around the World" - David Hesmondhalg
+  3. "The Cultural Industries" - David Hesmondhalgh
+  4. "Ofcom — Media Nations 2025 / 2026"
+  5. "Ofcom — Online Nation 2025"
+  6. "European Commission — Digital culture / audiovisual media"
+  7. "European Commission — Discoverability of diverse cultural content"
 
+- Research Done:
+1. "WHO — Screen time / sedentary behaviour"
+  
 - Keypoints for Societal Analysis: 1. "Changes in entertainment habits and consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
 
 # Brainstorm ONLY
@@ -50,7 +50,9 @@
 
 # Mental wellbeing, screen time and personal habits
 
-- If people are not made to go outside to rent dvds and simply stay at home. It takes a toll on their wellbeing. People would be more socially excluded since they arent exposed to society. People would develop procrastination since there are many films or games or music online. People would spend more time on the screen developing, "dry eyes" - high exposure of screen time, develop bad sitting postures, since people unconsciously look at the screen without paying attention to thier posture. People would spend so much time online, they become more anti-social, not frequently communicating with people outside of their homes. People would develop bad sleeping habits especially common in younger people. An example would be a young teenageer playing call of duty in the middle of the night during their school days. It will also make an impact of their education. People wont be keen in looking after their personal hygiene as well. 
+- If people are not made to go outside to rent dvds and simply stay at home. It takes a toll on their wellbeing. People would be more socially excluded since they arent exposed to society. People would develop procrastination since there are many films or games or music online. People would spend more time on the screen developing, "dry eyes" - high exposure of screen time, develop bad sitting postures, since people unconsciously look at the screen without paying attention to thier posture. People would spend so much time online, they become more anti-social, not frequently communicating with people outside of their homes. People would develop bad sleeping habits especially common in younger people. An example would be a young teenageer playing call of duty in the middle of the night during their school days. It will also make an impact of their education. People wont be keen in looking after their personal hygiene as well.
+
+- According to World Health Organisation (2019), children who lead sedentary lives such as playing online games or watching tv all day can affect their health negatively and it contributes to poor sleeping habits, which results in becoming overweight or obese in their adolescence and may contribute to mental health problems later.
 
 # Social interaction
 
@@ -59,5 +61,9 @@
 ### NOT THE FINAL WORK ###
 
 # References:
+
+World Health Organization (2019) Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. Geneva: World Health Organization. Available at: https://iris.who.int/server/api/core/bitstreams/60a1cbaa-2bef-4251-9557-e52ce22112b3/content (Accessed: 16 October 2026).
+
+
 
 
