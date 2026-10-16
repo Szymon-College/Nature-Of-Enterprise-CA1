@@ -29,6 +29,7 @@
   6. "European Commission — Digital culture / audiovisual media"
   7. "European Commission — Discoverability of diverse cultural content"
   8. "https://deadline.com/2026/07/netflix-chosen-over-bbc-uk-audiences-ofcom-media-nations-1237005527/"
+  9. "https://fairfieldmirror.com/69089/opinion/streaming-services-taken-away-ability-socialize/"
 
 - Research Done:
 1. "WHO — Screen time / sedentary behaviour"
@@ -102,7 +103,11 @@ and Apple iCloud.  "
 
 # Social interaction
 
-- People are prone to interact less with people where the lack of having to go out to purchase and communicate with people. This will develop an antisocial persona and it will not be beneficial in the long term especially for the individual's career or life in general. 
+- People are prone to interact less with people where the lack of having to go out to purchase and communicate with people. This will develop an antisocial persona and it will not be beneficial in the long term especially for the individual's career or life in general.
+
+- "https://fairfieldmirror.com/69089/opinion/streaming-services-taken-away-ability-socialize/"
+
+- (Article of Social Interaction)
 
 ### NOT THE FINAL WORK ###
 
