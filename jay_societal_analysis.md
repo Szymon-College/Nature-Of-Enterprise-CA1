@@ -28,11 +28,11 @@
   5. "Ofcom — Online Nation 2025"
   6. "European Commission — Digital culture / audiovisual media"
   7. "European Commission — Discoverability of diverse cultural content"
-  8. "https://deadline.com/2026/07/netflix-chosen-over-bbc-uk-audiences-ofcom-media-nations-1237005527/"
-  9. "https://fairfieldmirror.com/69089/opinion/streaming-services-taken-away-ability-socialize/"
+  8. "https://fairfieldmirror.com/69089/opinion/streaming-services-taken-away-ability-socialize/"
 
 - Research Done:
 1. "WHO — Screen time / sedentary behaviour"
+2. "https://deadline.com/2026/07/netflix-chosen-over-bbc-uk-audiences-ofcom-media-nations-1237005527/"
   
 - Keypoints for Societal Analysis: 1. "Changes in entertainment habits and consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
 
@@ -44,7 +44,7 @@
 
 - In the past, Netflix had a system where you choose the films and then sent by mail and the returning of the film is expected after 2 weeks. Nowadays, people simply watch films from cloud streaming services such as Netflix or listen to music online such as spotify.
 
-- According to "https://deadline.com/2026/07/netflix-chosen-over-bbc-uk-audiences-ofcom-media-nations-1237005527/" , the data shows that people are making a shift from traditional tv broadcast tv to cloud streaming services such as Netflix or Youtube. The data shows "36%" of individuals ranging from 16 to 24 year old want to watch Netflix. Another one shows individuals aged over 75, choose Netflix at 5%, while the majority, 48% listen to the "100 year old national broadcaster".
+- The data shows that people are making a shift from traditional tv broadcast to cloud streaming services such as Netflix or Youtube. The data shows "36%" of individuals ranging from 16 to 24 year old want to watch Netflix. Another one shows individuals aged over 75, choose Netflix at 5%, while the majority, 48% listen to the "100 year old national broadcaster" (Deadline, 2026)
 
 # Consumer behaviour 
 
@@ -115,6 +115,7 @@ and Apple iCloud.  "
 
 World Health Organization (2019) Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. Geneva: World Health Organization. Available at: https://iris.who.int/server/api/core/bitstreams/60a1cbaa-2bef-4251-9557-e52ce22112b3/content (Accessed: 16 October 2026).
 
+Deadline (2026) ‘Netflix chosen over BBC by UK audiences, Ofcom Media Nations report finds’, Deadline, July. Available at: https://deadline.com/2026/07/netflix-chosen-over-bbc-uk-audiences-ofcom-media-nations-1237005527/ (Accessed: 16 October 2026).
 
 
 
