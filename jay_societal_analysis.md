@@ -29,33 +29,22 @@
   6. "European Commission — Digital culture / audiovisual media"
   7. "European Commission — Discoverability of diverse cultural content"
   8. "https://fairfieldmirror.com/69089/opinion/streaming-services-taken-away-ability-socialize/"
+ 
 
-- Research Done:
-1. "WHO — Screen time / sedentary behaviour"
-2. "https://deadline.com/2026/07/netflix-chosen-over-bbc-uk-audiences-ofcom-media-nations-1237005527/"
-  
-- Keypoints for Societal Analysis: 1. "Changes in entertainment habits and consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
+- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
 
-# Brainstorm ONLY
+# Consumer behaviour
 
-# Changes in entertainment habits and consumer behaviour
+- The transformation of streaming services highlights the behavioural shift for consumers. In the early 2000s, consumers would purchase these films which were distributed on DVDs, VHS cassette tapes and CDs which also applies for music. These were mainly available for purchase from stores such as Xtra-vision, HMV or Golden Disc. However, consumers would gradually shift to cloud streaming platforms. According to Whitten (2019), the purchases of DVDs declined in 2008 by "more than 86 percent" and Netflix became a popular cloud streaming in later years, where consumers would watch films provided and distributed from its database servers.
 
-- In the early 2000s, consumers would purchase films and these films were distributed on DVDs, VHS cassette tapes and CDs which also applies for music. These were mainly available for purchase from stores such as Xtra-vision, HMV or Golden Disc. According to Whitten (2019), the purchases of DVDs declined in 2008 by "more than 86%" and in 2011, Netflix became a starting point for cloud streaming services, where consumers watch films provided and distributed from Netflix database servers. 
+- Music streaming platforms became increasingly popular and it also contributed to the decline of physical music consumption. Rolling Stone (2018) highlights the plunging sales of CDs to "80 percent" over the previous decade and it demonstrates that consumers were moving away from physical formats.
 
+- As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. 
 
 
 
 
 
-- , people had to go out of their houses, to rent dvds from stores such as xtravision or purchase from hmv or golden disc. Purchasing physical games from game shop or gamestop was the norm, with the use of cloud services, playstation or xbox store games in database servers, so you can simply purchase online games without physical copy, you can play these straight away. In this method people do not get out as much, so people wont be much active. In the past, people would queue for pre day release now people do not do this tradition anymore.
-
-- In the past, Netflix had a system where you choose the films and then sent by mail and the returning of the film is expected after 2 weeks. Nowadays, people simply watch films from cloud streaming services such as Netflix or listen to music online such as spotify.
-
-- The data shows that people are making a shift from traditional tv broadcast to cloud streaming services such as Netflix or Youtube. The data shows "36%" of individuals ranging from 16 to 24 year old want to watch Netflix. Another one shows individuals aged over 75, choose Netflix at 5%, while the majority, 48% listen to the "100 year old national broadcaster" (Deadline, 2026)
-
-# Consumer behaviour 
-
-- Ever since physical copies have been phasing out, films, games or music are now in the cloud. Companies have become too determined in releasing these products at such a high price. People have become more skeptical when trying to buy these cost. Example - Netflix initially charged €6.99 a month, now it costs €11.99 a month. Golden disc and hmv were the prime store in selling cd's for music. They only consisted of rought 10 - 30 songs depending on the cd. People would have collection of cd's at home. Since spotify was released in 2008, it became one of the leading music streaming service. People did not have to go out of their way to buy cd's. Spotify allows you store as much songs as you want depending the device storage. People can play their songs anywhere, anytime, and any equipment so long as it is connected to the internet. People find these extremely easy since they do not have to find a radio box to play their music. 
 
 # Cultural Diversity
 
@@ -119,6 +108,10 @@ and Apple iCloud.  "
 ### NOT THE FINAL WORK ###
 
 # References:
+
+Whitten, S. (2019) 'The death of the DVD: Why sales dropped more than 86% in 13 years', CNBC, 8 November. Available at: https://www.cnbc.com/2019/11/08/the-death-of-the-dvd-why-sales-dropped-more-than-86percent-in-13-years.html (Accessed: 19 October 2026).
+
+Rolling Stone (2018) ‘The end of owning music: How CDs and downloads died’, *Rolling Stone*, 19 April. Available at: https://www.rollingstone.com/pro/news/the-end-of-owning-music-how-cds-and-downloads-died-628660/ (Accessed: 19 October 2026).
 
 World Health Organization (2019) Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. Geneva: World Health Organization. Available at: https://iris.who.int/server/api/core/bitstreams/60a1cbaa-2bef-4251-9557-e52ce22112b3/content (Accessed: 16 October 2026).
 
