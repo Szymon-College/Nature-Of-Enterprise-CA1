@@ -40,7 +40,7 @@
 
 # Changes in entertainment habits and consumer behaviour
 
-- In the early 2000s, consumers would purchase films and these films were distributed on DVDs, VHS cassette tapes and CDs which also applies for music. These were mainly available for purchase from stores such as Xtra-vision, HMV or Golden Disc. 
+- In the early 2000s, consumers would purchase films and these films were distributed on DVDs, VHS cassette tapes and CDs which also applies for music. These were mainly available for purchase from stores such as Xtra-vision, HMV or Golden Disc. According to Whitten (2019), the purchases of DVDs declined in 2008 by "more than 86%" and in 2011, Netflix became a starting point for cloud streaming services, where consumers watch films provided and distributed from Netflix database servers. 
 
 
 
