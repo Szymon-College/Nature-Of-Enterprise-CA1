@@ -40,7 +40,14 @@
 
 # Changes in entertainment habits and consumer behaviour
 
-- In the past, people had to go out of their houses, to rent dvds from stores such as xtravision or purchase from hmv or golden disc. Purchasing physical games from game shop or gamestop was the norm, with the use of cloud services, playstation or xbox store games in database servers, so you can simply purchase online games without physical copy, you can play these straight away. In this method people do not get out as much, so people wont be much active. In the past, people would queue for pre day release now people do not do this tradition anymore.
+- In the early 2000s, consumers would purchase films and these films were distributed on DVDs, VHS cassette tapes and CDs which also applies for music. These were mainly available for purchase from stores such as Xtra-vision, HMV or Golden Disc. 
+
+
+
+
+
+
+- , people had to go out of their houses, to rent dvds from stores such as xtravision or purchase from hmv or golden disc. Purchasing physical games from game shop or gamestop was the norm, with the use of cloud services, playstation or xbox store games in database servers, so you can simply purchase online games without physical copy, you can play these straight away. In this method people do not get out as much, so people wont be much active. In the past, people would queue for pre day release now people do not do this tradition anymore.
 
 - In the past, Netflix had a system where you choose the films and then sent by mail and the returning of the film is expected after 2 weeks. Nowadays, people simply watch films from cloud streaming services such as Netflix or listen to music online such as spotify.
 
