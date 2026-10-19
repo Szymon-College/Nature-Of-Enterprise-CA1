@@ -24,3 +24,31 @@ approximately 95% of Irish households had internet access in 2025 which means th
 especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging.**
 **Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
 access movies, games and music.**
+
+# Privacy and Personal Data #
+**Another important issue is Privacy.The platforms that we use to stream can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on on our watched history.According to Ireland's Data Protection Commission(n.d.), organisations must be clear and and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
+
+
+# Fair Payment for Artists and Creators #
+**Since streaming music now is more popular than ever, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
