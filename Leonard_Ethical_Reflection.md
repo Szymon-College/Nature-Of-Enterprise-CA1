@@ -29,13 +29,21 @@
 <tr>
 <td align="center" width="50%">
 <img src="https://github.com/user-attachments/assets/faa51306-14a7-4c31-abd3-fd3f80026ccd" width="330">
-  
+
+<br>
+<p><sub> Figure 2: Netflix streaming on a television. Photo: Ajay Suresh (2019), Wikimedia Commons, CC BY 2.0.</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/514c6c2e-9fc4-49de-9871-c859f7c58bef" width="230">
+  <br>
+</sub> Figure 3: GTA V PS3 Steelbook (2013) .
+Photo: u/Usual-Star-8379 (2024).</sub>
+  </td>
 </tr>
 </table>
 
-<sub>Figure 2: Netflix streaming on a television. Photo: Ajay Suresh (2019), Wikimedia Commons, CC BY 2.0.</sub>
 
-<img width="600" height="600" alt="gta5 gamecase jpeg" src="https://github.com/user-attachments/assets/514c6c2e-9fc4-49de-9871-c859f7c58bef" />
+
 
 
 # Digital Exclusion #
