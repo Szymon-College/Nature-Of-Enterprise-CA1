@@ -30,7 +30,22 @@ access movies, games and music.**
 
 
 # Fair Payment for Artists and Creators #
-**Since streaming music now is more popular than ever, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed.
+**Since streaming music now is more popular than ever, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed. According to a study from the UK's Competition and Markets Authority(2022) it was found that more than 60% of music streams were associated by the top 0.4% of artists. This shows that based on their study that in 2020 that just 0.4% of artists accounted for more than 60% of music streams, this also shows how a very small percentage of artists attract most of the listeners, but thousands of smaller artists struggle to the same attention and recognition that they deserve. The report also showed that the potential earnings for an artist could be around £12,000 from 12 million streams annually, but less than 1% of artists managed to achieve that. Even though streaming can give independent artists the opportunity to reach a larger audience without signing with a record label, earning a decent enough income can be very challenging. A possible improvement to this problem would be for the streaming platforms to make their payment systems more transparent and allowing artists to understand how their earnings are calculated.They can also improve by offering fairer contracts and much better support for independent artists.***
+
+# Overall Reflection and Improvements #
+Overall, streaming has brought a lot of benefits, convenience and huge selection of entertainment options that also makes content easier to access, however with the decline of physical media this has affected workers, consumers and creators. In my opinion streaming itself isn't unethical, but these big streaming companies such as Netflix, Disney Plus, Spotify and Apple Music etc should take way more responsibility for the consequences of technological change. They could start by providing better support for their employees, protecting customer data, improving digital consumer rights and making their payments for artists way more transparent. This would make the entertainment industry more fair. Finding a balance between technological progress and protecting the people affected by it is the main challenge unfortunately.**
+
+
+
+
+
+## References 
+Blockbuster Inc. (2011) *Annual Report on Form 10-K for the fiscal year ended 2 January 2011*. Available at: https://www.sec.gov/Archives/edgar/data/1085734/000119312511186981/d10k.htm (Accessed: 18 October 2026).
+Central Statistics Office (2025) *Internet Coverage and Usage in Ireland 2025*. Available at: https://www.cso.ie/en/releasesandpublications/ep/p-isshict/internetcoverageandusageinireland2025/ (Accessed: 18 October 2026).
+Competition and Markets Authority (2022) *Music and streaming market study: final report*. Available at: https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report (Accessed: 20 October 2026).
+
+
+
 
 
 
