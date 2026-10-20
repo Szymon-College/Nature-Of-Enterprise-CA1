@@ -22,7 +22,7 @@
 
 - Music streaming platforms became increasingly popular and it also contributed to the decline of physical music consumption. Spotify was launched in 2008 as a form to prevent piracy and became a cloud music streaming platform after 2 years. Bilgili Sülük (2026) highlights that consumers were drawn to features of Spotify such as "on-demand playback" and "offline listening". Spotify achieved "10 million" users in 2010 which shows the platform caters on user experience and data personalization. Rolling Stone (2018) highlights the plunging sales of CDs to "80 percent" over the previous decade, from "450 million to 89 million" and it demonstrates that consumers were moving away from physical formats.
 
-- As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. 
+- As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. Consumers expects contents to be available across multiple devices and reduce dependence on physical retailers. 
 
 # Mental wellbeing, screen time and personal habits
 
