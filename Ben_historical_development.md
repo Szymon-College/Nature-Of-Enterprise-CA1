@@ -26,6 +26,7 @@ First Blockbusters
 DvDs
 Optical discs
 Huge market for home films with entire companies focusing on making films for the market (Disney sequels) 
+
 2000's
 Blue-ray
 Spotify- 2006
