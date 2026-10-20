@@ -43,6 +43,12 @@ Overall, streaming has brought a lot of benefits, convenience and huge selection
 Blockbuster Inc. (2011) *Annual Report on Form 10-K for the fiscal year ended 2 January 2011*. Available at: https://www.sec.gov/Archives/edgar/data/1085734/000119312511186981/d10k.htm (Accessed: 18 October 2026).
 Central Statistics Office (2025) *Internet Coverage and Usage in Ireland 2025*. Available at: https://www.cso.ie/en/releasesandpublications/ep/p-isshict/internetcoverageandusageinireland2025/ (Accessed: 18 October 2026).
 Competition and Markets Authority (2022) *Music and streaming market study: final report*. Available at: https://www.gov.uk/government/publications/music-and-streaming-market-study-final-report (Accessed: 20 October 2026).
+Data Protection Commission (n.d.) *The right to be informed (transparency): Articles 13 and 14 GDPR*. Available at: https://www.dataprotection.ie/en/individuals/know-your-rights/right-be-informed-transparency-article-13-14-gdpr (Accessed: 19 October 2026).
+European Commission (n.d.) *Digital contract rules*. Available at: https://commission.europa.eu/topics/business-and-industry/contract-rules/digital-contracts/digital-contract-rules_en (Accessed: 18 October 2026).
+GameStop Corp. (2025) *Annual Report on Form 10-K for the fiscal year ended 1 February 2025*. Available at: https://www.sec.gov/Archives/edgar/data/1326380/000162828025014731/gme-20250201.htm (Accessed: 19 October 2026).
+Netflix (2026) *Netflix Terms of Use*. Available at: https://help.netflix.com/en/legal/termsofuse (Accessed: 20 October 2026).
+O'Faolain, A. (2016) 'Liquidator appointed to Xtra-vision, 580 jobs at risk', *The Irish Times*, 27 January. Available at: https://www.irishtimes.com/business/retail-and-services/liquidator-appointed-to-xtra-vision-580-jobs-at-risk-1.2512325 (Accessed: 20 October 2026).
+
 
 
 
