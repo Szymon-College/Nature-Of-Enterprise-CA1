@@ -14,7 +14,7 @@
 
 - Must only use "Spellchecker", Grammarly for rewriting is prohibited.
 
-- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing and personal habits" 3. "Social interaction"
+- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing and personal habits"
 
 # Consumer behaviour
 
