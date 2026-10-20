@@ -9,7 +9,6 @@
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
 **This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
 
-![Blockbuster Store Closing](./blockbuster-closing.jpeg)
 
 
 # Digital Ownership and Consumer Rights #
