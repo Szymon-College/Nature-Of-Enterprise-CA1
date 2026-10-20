@@ -8,8 +8,11 @@
 - Explain how they work
 ---
 ### Context
+Streaming is the consumption of media without the need of downloading said media onto the device, by transfering the data from a server to the user's device over the internet.(Pollete, 2024) Any type of media can be streamed, movies and shows with platforms such as Netflix and Disney+, music and podcasts with platforms such as Spotify and SoundCloud and games with Xbox. To access these services, consumers pay a monthly subscriptions
 ### Significance
+Businesses that revolved around renting hardware such as DVDs and disks were overshadowed by the sudden rise of streaming services where consumers did not need to need to leave their house to access their media. However, this made consumers pay way more as streaming services allow consumers to access a large library of media for a monthly subscription rather than renting a singular movie with the rental stores.
 ### Thesis Statement
+The transformation of streaming services has revolutionized the media industry for both consumers and businesses. Businesses have adapted to the sudden rise of streaming services by killing off the need of physical hardware and the renting business to allow consumers to watch anything they want from the comfort of their own home for an on going subscription.
 ### Viewpoint Selection
 ---
 #### First Draft
@@ -18,3 +21,4 @@ Physical businesses such as Blockbuster in America where people go to a store to
 # Conclusion
 
 # References
+ - https://electronics.howstuffworks.com/tech/streaming-video-and-audio.htm
