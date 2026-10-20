@@ -39,9 +39,11 @@ The seventh generation of consoles Xbox 360 , Playstation 3 and the Wii all laun
 Collapsed of rental stores and stores relating to physical media  
 
 # Music 
-The first case of physical media was around 1878 when the was invented phonograph cylinder where it was the first case of recording media and reproducing media, it worked using a waxed cylinder and with a stylus would etch waveforms into the cylinder  when played with a needle moved by a vibrating membrane would generate sound that was recorded  
+The first case of physical media was around 1878 when the was invented phonograph cylinder where it was the first case of recording media and reproducing media, it worked using a waxed cylinder and with a stylus would etch waveforms into the cylinder  when played with a needle moved by a vibrating membrane would generate sound that was recorded, The material changed from wax to metal
 
 1889-Vinyl
+This used the same idea of the phonograph cylinder where instead of a waxed cylinder it used a disc shape, it used a needle liked the phonograph 
+, 
 
 
 
