@@ -44,7 +44,8 @@ The first case of physical media was around 1878 when the was invented phonograp
 1889-Vinyl
 This used the same idea of the phonograph cylinder where instead of a waxed cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound.
 
-1963-cassette 
+1963-Cassette 
+
 
 
 
