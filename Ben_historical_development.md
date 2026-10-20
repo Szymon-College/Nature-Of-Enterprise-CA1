@@ -39,10 +39,15 @@ The seventh generation of consoles Xbox 360 , Playstation 3 and the Wii all laun
 Collapsed of rental stores and stores relating to physical media  
 
 
-# Gaming
-1970's- Hardwired games    First instance of physical media in Video games were not made to have any removable media at all, it was built into the system with most of the games being pong games, this made consumers to stick with one system
 
-1977's-Rom Cartridges were plastic shells meant to be connected to the game system, this added the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the the rom chip which contained the data to run it  
+# Film
+1970's-
+
+
+# Gaming
+1970's- Hardwired games    First instance of physical media in Video games were not made to have any removable media at all, it was built into the system with most of the games being pong games, this made consumers to stick with one system as the only way to play new games were with buying a new system
+
+1977's-Rom Cartridges were plastic shells meant to be connected to the system, this added the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it  
 
 
 
