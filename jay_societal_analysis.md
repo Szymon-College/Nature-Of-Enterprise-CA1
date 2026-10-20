@@ -14,7 +14,7 @@
 
 - Must only use "Spellchecker", Grammarly for rewriting is prohibited.
 
-- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Cultural Diversity" 3. "Mental wellbeing, screen time and personal habits" 4. "Social interaction"
+- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing, screen time and personal habits" 3. "Social interaction"
 
 # Consumer behaviour
 
@@ -24,12 +24,9 @@
 
 - As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. 
 
-# Cultural Diversity
-
-- People began to discover Japanese culture such as Japanese anime. People seem to be invested in watching these animes. Exposure to korean culture since korean films or dramas are a big thing for people nowadays like squid game. Allows people to listen to other countries music such as k pop, j pop, chinese pop, american country music. In modern times, people are more diversed and diversifying culture as a whole.
-
 # Mental wellbeing, screen time and personal habits
 
+- The popular demands due to Netflix, Amazon Prime, Hulu made an impact on younger generations' mental wellbeing and prolonged screen time.
 
 
 # References:
