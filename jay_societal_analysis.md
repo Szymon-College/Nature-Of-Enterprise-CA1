@@ -14,7 +14,7 @@
 
 - Must only use "Spellchecker", Grammarly for rewriting is prohibited.
 
-- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing, screen time and personal habits" 3. "Social interaction"
+- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing and personal habits" 3. "Social interaction"
 
 # Consumer behaviour
 
@@ -26,7 +26,7 @@
 
 # Mental wellbeing, screen time and personal habits
 
-- The popular demands due to Netflix, Amazon Prime, Hulu made an impact on younger generations' mental wellbeing and prolonged screen time.
+- The popular demands of Netflix, Amazon Prime, Hulu and other streaming platforms made an impact on younger generations' mental wellbeing, additionally it contributed bad personal habits and high volume of screen time.
 
 
 # References:
@@ -36,6 +36,8 @@ Whitten, S. (2019) 'The death of the DVD: Why sales dropped more than 86% in 13 
 Bilgili Sülük, S. (2026) From traditional search to generative engine optimization (GEO): The evolution of consumer information search in digital marketing. Available at: https://www.researchgate.net/profile/Songul-Bilgili-Suluk/publication/414216894_FROM_TRADITIONAL_SEARCH_TO_GENERATIVE_ENGINE_OPTIMIZATION_GEO_THE_EVOLUTION_OF_CONSUMER_INFORMATION_SEARCH_IN_DIGITAL_MARKETING/links/6aa3f32995bfde5e3aa59c14/FROM-TRADITIONAL-SEARCH-TO-GENERATIVE-ENGINE-OPTIMIZATION-GEO-THE-EVOLUTION-OF-CONSUMER-INFORMATION-SEARCH-IN-DIGITAL-MARKETING.pdf#page=328 (Accessed: 20 October 2026).
 
 Rolling Stone (2018) ‘The end of owning music: How CDs and downloads died’, *Rolling Stone*, 19 April. Available at: https://www.rollingstone.com/pro/news/the-end-of-owning-music-how-cds-and-downloads-died-628660/ (Accessed: 19 October 2026).
+
+Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, Review on Economic Cycle, 7(1), pp. 5-15. Available at: https://www.reviewoneconomiccycles.com/storage/journals/1/articles/ER46BRl7oh6ne1McWoPdwFogrsS0i3ubSH6dW9kf.pdf (Accessed: 20 October 2026).
 
 
 
