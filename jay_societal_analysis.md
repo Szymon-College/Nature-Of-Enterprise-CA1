@@ -35,9 +35,9 @@
 
 # Consumer behaviour
 
-- The transformation of streaming services highlights the behavioural shift for consumers. In the early 2000s, consumers would purchase these films which were distributed on DVDs, VHS cassette tapes and CDs which also applies for music. These were mainly available for purchase from stores such as Xtra-vision, HMV or Golden Disc. However, consumers would gradually shift to cloud streaming platforms. According to Whitten (2019), the purchases of DVDs declined in 2008 by "more than 86 percent" and Netflix became a popular cloud streaming in later years, where consumers would watch films provided and distributed from its database servers.
+- The transformation of streaming services highlights the behavioural shift for consumers. In the early 2000s, consumers would purchase these films which were distributed on DVDs, VHS cassette tapes and CDs which also applies for music. These were mainly available for purchase from stores such as Xtra-vision, HMV or Golden Disc. However, consumers would gradually shift to cloud streaming platforms. According to Whitten (2019), the purchases of DVDs declined in 2008 by "more than 86 percent" and platforms such as Netflix or HBO had a sale increase of "1231% to $12.9 billion" in the US market. The consumers would watch films provided and distributed from its database servers.
 
-- Music streaming platforms became increasingly popular and it also contributed to the decline of physical music consumption. Rolling Stone (2018) highlights the plunging sales of CDs to "80 percent" over the previous decade and it demonstrates that consumers were moving away from physical formats.
+- Music streaming platforms became increasingly popular and it also contributed to the decline of physical music consumption. Rolling Stone (2018) highlights the plunging sales of CDs to "80 percent" over the previous decade, from "450 million to 89 million" and it demonstrates that consumers were moving away from physical formats.
 
 - As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. 
 
