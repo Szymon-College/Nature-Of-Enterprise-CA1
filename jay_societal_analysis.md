@@ -1,4 +1,4 @@
-- Jay
+- Jayrald - A00079303
 
 - Started at : 12/10/2026
 
@@ -7,10 +7,6 @@
 - Societal Analysis - "Detailed examination through chosen lens"
 
 -  Due Date = Friday, 27th November, 5pm
-
-- Must do:  (Week 1) - Search reliable resources for "Societal Analysis"
-
-- Must do: (Week 2) - Focus on social interaction
 
 - Must have 3 minute video in relation to my research: Clear presentation, slides and voice
 
