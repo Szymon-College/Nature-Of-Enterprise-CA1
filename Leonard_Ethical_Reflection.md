@@ -3,11 +3,13 @@
 **Although streaming is convenient and gives customers more choice, it has also created some ethical problems.**
 **These include the loss of jobs, digital ownership(which means people no longer own the content that they have paid for), privacy and the way some artists are paid.**
 
-##Job Losses and the Decline of Physical Stores  
+## Job Losses and the Decline of Physical Stores  
 **Traditional shops such as Xtra-Vision and Blockbuster struggled the most as customers moved toward the digital entertainment route.**
 **In January 2016, Extra-Vision entered liquidation while also putting approximately 583 jobs at risk(O'Faolain, 2016).**
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
 **This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
+
+![Blockbuster Store Closing](./blockbuster-closing.jpeg)
 
 
 # Digital Ownership and Consumer Rights #
