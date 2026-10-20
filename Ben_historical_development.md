@@ -38,10 +38,13 @@ The seventh generation of consoles Xbox 360 , Playstation 3 and the Wii all laun
 2010s
 Collapsed of rental stores and stores relating to physical media  
 
+# Music 
+The first case of physical media was around 1878 when the was invented phonograph cylinder  where it was the first case of recording media and reproducing the media 
+
 
 
 # Film
-1970's-
+1970's- The first cases of physical media for film were  
 
 
 # Gaming
