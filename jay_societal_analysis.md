@@ -26,7 +26,7 @@
 
 # Mental wellbeing, screen time and personal habits
 
-- The popular demands of Netflix, Amazon Prime, Hulu and other streaming platforms made an impact on younger generations' mental wellbeing, additionally it contributed bad personal habits and high volume of screen time.
+- The popular demands of Netflix, Amazon Prime, Hulu and other streaming platforms made an impact on younger generations' mental wellbeing, additionally it contributes bad personal habits and high volume of screen time. Venkatesh, Sripriya and Rajkamal (2026) highlights younger generations, primarily Gen Z where these individuals would "multitask" and "binge-watch" leading to "cognitive overload" that could affect their "learning" and "academic performance". It also explains why high frequency use of these platforms does not result in better overall knowledge. 
 
 
 # References:
@@ -37,7 +37,7 @@ Bilgili Sülük, S. (2026) From traditional search to generative engine optimiza
 
 Rolling Stone (2018) ‘The end of owning music: How CDs and downloads died’, *Rolling Stone*, 19 April. Available at: https://www.rollingstone.com/pro/news/the-end-of-owning-music-how-cds-and-downloads-died-628660/ (Accessed: 19 October 2026).
 
-Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, Review on Economic Cycle, 7(1), pp. 5-15. Available at: https://www.reviewoneconomiccycles.com/storage/journals/1/articles/ER46BRl7oh6ne1McWoPdwFogrsS0i3ubSH6dW9kf.pdf (Accessed: 20 October 2026).
+Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, Review on Economic Cycle, 7(1). Available at: https://www.reviewoneconomiccycles.com/storage/journals/1/articles/ER46BRl7oh6ne1McWoPdwFogrsS0i3ubSH6dW9kf.pdf (Accessed: 20 October 2026).
 
 
 
