@@ -9,7 +9,11 @@
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
 **This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
 
-![Blockbuster Store Closing](blockbuster-closing.jpeg)
+<img width="600" height="600" alt="    blockbuster-closing" src="https://github.com/user-attachments/assets/aa133314-1737-497f-88fb-39589a7da0d4" />
+
+<br>
+<sub>Figure 1: Blockbuster store closing in Michigan, 2013. Photo: Dwight Burdette (2013), Wikimedia Commons, CC BY 3.0.</sub>
+
 
 
 
@@ -21,6 +25,18 @@
 **This raises questions about how much control consumers actually have over their entertainment.**
 **Streaming companies should be able to clearly explain what their customers are paying for and including any restrictions on downloading and accessing content.**
 **The European Commission(n,d)also outlines consumer protections for digital services, showing why clear digital rights are important.**
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/faa51306-14a7-4c31-abd3-fd3f80026ccd" width="330">
+  
+</tr>
+</table>
+
+<sub>Figure 2: Netflix streaming on a television. Photo: Ajay Suresh (2019), Wikimedia Commons, CC BY 2.0.</sub>
+
+<img width="600" height="600" alt="gta5 gamecase jpeg" src="https://github.com/user-attachments/assets/514c6c2e-9fc4-49de-9871-c859f7c58bef" />
+
 
 # Digital Exclusion #
 **Streaming also creates difficulties for people that don't have a reliable internet connection and according to Central Statistics Office(2025),**
