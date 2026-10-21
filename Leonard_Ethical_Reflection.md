@@ -1,3 +1,4 @@
+
 # Ethical Reflection and Improvements 
 **The growth of streaming services such Netflix, Spotify and digital gaming platforms has completely changed how people access entertainment.**
 **Although streaming is convenient and gives customers more choice, it has also created some ethical problems.**
@@ -36,7 +37,7 @@
 <td align="center" width="50%">
 <img src="https://github.com/user-attachments/assets/514c6c2e-9fc4-49de-9871-c859f7c58bef" width="230">
   <br>
-</sub> Figure 3: GTA V PS3 Steelbook (2013) .
+</sub>Figure 3: GTA V PS3 Steelbook (2013) .
 Photo: u/Usual-Star-8379 (2024).</sub>
   </td>
 </tr>
@@ -54,8 +55,17 @@ especially the elderly or those who are unfamiliar with digital technology and m
 **Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
 access movies, games and music.**
 
+<img width="600" height="400" alt="library" src="https://github.com/user-attachments/assets/27943bb3-de2d-4879-a14d-44aabe54a2c9" />
+
+<sub>Figure 4: Public internet access at Fort Worth Library, USA. Photograph by Informationwave (2009), Wikimedia Commons, CC BY 3.0.<sub>
+
+
 # Privacy and Personal Data #
 **Another important issue is Privacy.The platforms that we use to stream can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on on our watched history.According to Ireland's Data Protection Commission(n.d.), organisations must be clear and and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
+
+<img width="600" height="300" alt="servers" src="https://github.com/user-attachments/assets/8e09b44a-3873-46a6-852e-fc580ad865f7" />
+
+<sub>Figure 5: Server infrastructure used for digital data processing. Photo: Victor Grigas (2015), Wikimedia Commons, CC BY-SA 3.0.</sub>
 
 
 # Fair Payment for Artists and Creators #
