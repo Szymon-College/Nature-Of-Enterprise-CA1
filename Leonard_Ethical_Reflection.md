@@ -99,7 +99,30 @@ Netflix (2026) *Netflix Terms of Use*. Available at: https://help.netflix.com/en
 
 O'Faolain, A. (2016) 'Liquidator appointed to Xtra-vision, 580 jobs at risk', *The Irish Times*, 27 January. Available at: https://www.irishtimes.com/business/retail-and-services/liquidator-appointed-to-xtra-vision-580-jobs-at-risk-1.2512325 (Accessed: 20 October 2026).
 
+## Image References
+1. Blockbuster Store Closing — Figure 1
 
+Burdette, D. (2013) Blockbuster Store Closing, Ypsilanti Township, Michigan [Photograph]. Wikimedia Commons. Available at:  Wikimedia Commons – Blockbuster photograph⁠￼ (Accessed: 21 October 2026).  
+
+2. Privacy and Personal Data — Figure 5
+
+Grigas, V. (2015) Wikimedia Foundation Servers 2015-63 [Photograph]. Wikimedia Commons. Available at:  Wikimedia Commons – Server photograph⁠￼ (Accessed: 21 October 2026).  
+
+3. Digital Exclusion — Figure 4
+
+Informationwave (2009) Fort Worth Library Computer Lab [Photograph]. Wikimedia Commons. Available at:  Wikimedia Commons – Library photograph⁠￼ (Accessed: 21 October 2026).  
+
+4. Netflix and Digital Ownership — Figure 2
+
+Suresh, A. (2019) Netflix Streaming [Photograph]. Wikimedia Commons. Available at:  Wikimedia Commons – Netflix photograph⁠￼ (Accessed: 21 October 2026).  
+
+5. GTA V Steelbook — Figure 3
+
+Usual-Star-8379 (2024) ‘My 1st and only steelbook. PS3 GTA V Pre-order Special Edition 2013 with Blueprint Map’ [Photograph]. Reddit, r/GTA, 29 October. Available at:  Reddit – GTA V Steelbook photograph⁠￼ (Accessed: 21 October 2026).  
+
+6. Spotify Artist Payment Protest — Figure 6
+
+Voynovskaya, N. (2021) ‘Musicians demand better pay at Spotify headquarters around the world’ [Photographs accompanying online article]. KQED, 16 March. Available at:  KQED – Spotify protest photographs⁠￼ (Accessed: 21 October 2026).  
 
 
 
