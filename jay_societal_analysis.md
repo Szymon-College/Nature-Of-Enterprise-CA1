@@ -14,7 +14,7 @@
 
 - Must only use "Spellchecker", Grammarly for rewriting is prohibited.
 
-- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing and personal habits"
+- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing in young people"
 
 # Consumer behaviour
 
@@ -24,9 +24,11 @@
 
 - As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. Rather than purchasing and owning DVDs or CDs, consumers are increasingly pay subscription fees for temporary access to content. This has changed the expectations from the consumer where users are now valuing convenience with consumers expecting contents to be available across multiple devices and reduce dependence on physical retailers. As a result, entertainment became more accessible and flexible, but consumers had become increasingly dependent on digital platforms and recurring subscription services with the decline of dependency on physical media, it change how people purchase and consume media.
 
-# Mental wellbeing, screen time and personal habits
+# Mental wellbeing in young people
 
-- The popular demands of Netflix, Amazon Prime, Hulu and other streaming platforms made an impact on younger generations' mental wellbeing, additionally it contributes bad personal habits and high volume of screen time. Venkatesh, Sripriya and Rajkamal (2026) highlights younger generations, primarily Gen Z where these individuals would "multitask" and "binge-watch" leading to "cognitive overload" that could affect their "learning" and "academic performance". It also explains why high frequency use of these platforms does not result in better overall knowledge. 
+- Young people in this decade are subjected to a variety of streaming platform such as Netflix or Amazon Prime and can lead to higher consumption of digital entertainment in comparison to young people in the early 2000s as they relied on DVDs and scheduled television programmes. As demand for streaming platforms continues to surge, it can affect on younger generations' mental wellbeing and can contribute to bad personal habits such as high volume of screen time and poor sleeping habits. Venkatesh, Sripriya and Rajkamal (2026) highlights younger generations, primarily Gen Z where these individuals would "multitask" and "binge-watch" leading to "cognitive overload" that could affect their "learning" and "academic performance". It also explains why high frequency use of these platforms does not result in better overall knowledge.
+
+-  
 
 
 # References:
