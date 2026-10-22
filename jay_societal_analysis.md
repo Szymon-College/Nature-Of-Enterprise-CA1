@@ -28,7 +28,7 @@
 
 - Young people in this decade are subjected to a variety of streaming platform such as Netflix or Amazon Prime and can lead to higher consumption of digital entertainment in comparison to young people in the early 2000s as they relied on DVDs and scheduled television programmes. As demand for streaming platforms continues to surge, it can affect on younger generations' mental wellbeing and can contribute to bad personal habits such as high volume of screen time and poor sleeping habits. Venkatesh, Sripriya and Rajkamal (2026) highlights younger generations, primarily Gen Z where these individuals would "multitask" and "binge-watch" leading to "cognitive overload" that could affect their "learning" and "academic performance". It also explains why high frequency use of these platforms does not result in better overall knowledge.
 
--  
+- According to Tucker (2025), the data shows that "62%" of Gen Z would subject to screen time than restful sleep and "29%" would engage late night watching few times per week. This suggests poor sleeping patterns can influence an individual's mental wellbeing.
 
 
 # References:
@@ -40,6 +40,8 @@ Bilgili Sülük, S. (2026) From traditional search to generative engine optimiza
 Rolling Stone (2018) ‘The end of owning music: How CDs and downloads died’, *Rolling Stone*, 19 April. Available at: https://www.rollingstone.com/pro/news/the-end-of-owning-music-how-cds-and-downloads-died-628660/ (Accessed: 19 October 2026).
 
 Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, Review on Economic Cycle, 7(1). Available at: https://www.reviewoneconomiccycles.com/storage/journals/1/articles/ER46BRl7oh6ne1McWoPdwFogrsS0i3ubSH6dW9kf.pdf (Accessed: 20 October 2026).
+
+Tucker, B. (2025) ‘Streaming fatigue’, Octane Seating, 25 July. Available at: https://octaneseating.com/blog/streaming-fatigue/ (Accessed: 22 October 2026).
 
 
 
