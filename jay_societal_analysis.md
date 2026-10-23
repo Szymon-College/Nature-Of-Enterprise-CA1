@@ -34,8 +34,9 @@
 
 # Encourage cultural diversity
 
-- Netflix, Disney +, Amazon Prime or other streaming platforms can encourage cultural diversity in which viewers would watch shows from Japan or Korea. An example would be, more viewers are engaged in watching anime such as Attack on Titan.
+- The transition from physical media to streaming platforms has exposed viewers to international entertainment where Netflix contains different aspects of Korean entertainment, ranging from documentary to drama. Netflix promotes international entertainment as it has recommendation algorithm and can allow its audience to encounter international entertainment. According to Guha (2023, p.5), Netflix has a collection of "international content", additionally, it specifies that it forms "a bridge" in communities.
 
+- 
 
 # References:
 
@@ -49,5 +50,6 @@ Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media co
 
 Tucker, B. (2025) ‘Streaming fatigue’, Octane Seating, 25 July. Available at: https://octaneseating.com/blog/streaming-fatigue/ (Accessed: 22 October 2026).
 
+Guha, P. (2023) 'Never Have I Ever: A critical analysis on the role of Netflix in promoting multiculturalism', International Journal for Multidisciplinary Research, 5(5), pp. 1–13. doi: 10.36948/ijfmr.2023.v05i05.7252.
 
 
