@@ -14,7 +14,7 @@
 
 - Must only use "Spellchecker", Grammarly for rewriting is prohibited.
 
-- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing in young people"
+- Keypoints for Societal Analysis: 1. "Consumer behaviour" 2. "Mental wellbeing in young people" 3. "Encourage cultural diversity"
 
 # Consumer behaviour
 
@@ -28,7 +28,13 @@
 
 - Young people in this decade are subjected to a variety of streaming platform such as Netflix or Amazon Prime and can lead to higher consumption of digital entertainment in comparison to young people in the early 2000s as they relied on DVDs and scheduled television programmes. As demand for streaming platforms continues to surge, it can affect on younger generations' mental wellbeing and can contribute to bad personal habits such as high volume of screen time and poor sleeping habits. Venkatesh, Sripriya and Rajkamal (2026) highlights younger generations, primarily Gen Z where these individuals would "multitask" and "binge-watch" leading to "cognitive overload" that could affect their "learning" and "academic performance". It also explains why high frequency use of these platforms does not result in better overall knowledge.
 
-- According to Tucker (2025), the data shows that "62%" of Gen Z would subject to screen time than restful sleep and "29%" would engage late night watching few times per week. This suggests poor sleeping patterns can influence an individual's mental wellbeing.
+- According to Tucker (2025), the data shows that "62%" of Gen Z would subject to screen time than restful sleep and "29%" would engage late night watching few times per week, in addition, it outlines that "30%" Americans have poor sleeping patterns as they cannot stop engaging in streaming movies or videos. This suggests poor sleeping patterns can influence an individual's mental wellbeing.
+
+- From a social analysis perspective, young people engage more in these streaming platform instead of social activities such as going outside with peers. In addition streaming platforms are flexible which can encourage individuals to watch late night shows and disrupt sleeping habits. As the evidence suggests, excessive streaming with the addition to insufficient sleep could potentially affect academic performance for students. As these become more increasingly common among the young generations, there would be concerns of media consumption and digital wellbeing.
+
+# Encourage cultural diversity
+
+- Netflix, Disney +, Amazon Prime or other streaming platforms can encourage cultural diversity in which viewers would watch shows from Japan or Korea. An example would be, more viewers are engaged in watching anime such as Attack on Titan.
 
 
 # References:
