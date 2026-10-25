@@ -36,7 +36,9 @@
 
 - The transition from physical media to streaming platforms has exposed viewers to international entertainment where Netflix contains different aspects of Korean entertainment, ranging from documentary to drama. Netflix promotes international entertainment as it has recommendation algorithm and can allow its audience to encounter international entertainment. According to Guha (2023, p.5), Netflix has a collection of "international content", additionally, it specifies that it forms "a bridge" in communities.
 
-- 
+- In addition, the transition from physical media to streaming platforms allowed international entertainment more accessible through language options such as English dubbing. According to Salsabila (2021, p.20), "85%" of American Netflix viewers preferred English dubbing when watching the Danish series *The Rain*, while "78%" preferred dubbing for the German series *Dark* and it suggests that language accessibility can encourage the audience to explore international entertainment without being discouraged by unfamiliar languages. Based on this evidence, streaming platforms could encourage cultural diversity by exposing viewers to different traditions, lifestyles and cultural perspectives, potentially increasing their awareness and appreciation of other cultures.
+
+- Transitioning from physical media to streaming platforms allowed how individuals engage with different cultures. With recommendation algorithms and language options allows the audience to encounter other cultural traditions. This could encourage greater cultural awareness as viewers are exposed to unfamiliar lifestyle and social values. Streaming platforms also have the potential to reduce cultural barries by allowing international entertainment easier to discover and understand and contribute positively to cultural diversity.
 
 # References:
 
@@ -51,5 +53,7 @@ Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media co
 Tucker, B. (2025) ‘Streaming fatigue’, Octane Seating, 25 July. Available at: https://octaneseating.com/blog/streaming-fatigue/ (Accessed: 22 October 2026).
 
 Guha, P. (2023) 'Never Have I Ever: A critical analysis on the role of Netflix in promoting multiculturalism', International Journal for Multidisciplinary Research, 5(5), pp. 1–13. doi: 10.36948/ijfmr.2023.v05i05.7252.
+
+Salsabila, K. (2021) ‘Netflix: Cultural Diversity or Cultural Imperialism?’, Rubikon, 8(1), pp. 15–27. Available at: https://doi.org/10.22146/rubikon.v8i1.65480 (Accessed: 25 October 2026).
 
 
