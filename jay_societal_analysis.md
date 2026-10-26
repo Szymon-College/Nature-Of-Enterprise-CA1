@@ -46,18 +46,16 @@
 
 # References:
 
-Whitten, S. (2019) 'The death of the DVD: Why sales dropped more than 86% in 13 years', _CNBC_, 8 November. Available at: https://www.cnbc.com/2019/11/08/the-death-of-the-dvd-why-sales-dropped-more-than-86percent-in-13-years.html (Accessed: 19 October 2026).
+Guha, P. (2023) ‘Never Have I Ever: A Critical Analysis on the Role of Netflix in Promoting Multiculturalism’, _International Journal for Multidisciplinary Research_, 5(5), pp. 1–13. doi: 10.36948/ijfmr.2023.v05i05.7252.
 
 Kuyucu, M. (2026) ‘The growth of Spotify and the digital music industry’, in Türkyılmaz, C.A. and Erdem, Ş. (eds.) _Digital Marketing Transformation: Road Map and Marketing Concepts_. Istanbul: Haliç Publishing House, pp. 317–342. doi: 10.38066/hy.57758zyk.hph.
 
 Rolling Stone (2018) ‘The end of owning music: How CDs and downloads died’, _Rolling Stone_, 19 April. Available at: https://www.rollingstone.com/pro/news/the-end-of-owning-music-how-cds-and-downloads-died-628660/ (Accessed: 19 October 2026).
 
-Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, _Review on Economic Cycles_, 7(1), pp. 5–23. doi: 10.69980/rec.v7i1.124.
+Salsabila, K. (2021) ‘Netflix: Cultural Diversity or Cultural Imperialism?’, _Rubikon: Journal of Transnational American Studies_, 8(1), pp. 15–27. doi: 10.22146/rubikon.v8i1.65480.
 
 Tucker, B. (2025) ‘Streaming fatigue’, _Octane Seating_, 25 July. Available at: https://octaneseating.com/blog/streaming-fatigue/ (Accessed: 22 October 2026).
 
-Guha, P. (2023) ‘Never Have I Ever: A Critical Analysis on the Role of Netflix in Promoting Multiculturalism’, _International Journal for Multidisciplinary Research_, 5(5), pp. 1–13. doi: 10.36948/ijfmr.2023.v05i05.7252.
+Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, _Review on Economic Cycles_, 7(1), pp. 5–23. doi: 10.69980/rec.v7i1.124.
 
-Salsabila, K. (2021) ‘Netflix: Cultural Diversity or Cultural Imperialism?’, _Rubikon: Journal of Transnational American Studies_, 8(1), pp. 15–27. doi: 10.22146/rubikon.v8i1.65480.
-
-
+Whitten, S. (2019) 'The death of the DVD: Why sales dropped more than 86% in 13 years', _CNBC_, 8 November. Available at: https://www.cnbc.com/2019/11/08/the-death-of-the-dvd-why-sales-dropped-more-than-86percent-in-13-years.html (Accessed: 19 October 2026).
