@@ -10,7 +10,7 @@
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
 **This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
 
-<img width="600" height="600" alt="    blockbuster-closing" src="https://github.com/user-attachments/assets/aa133314-1737-497f-88fb-39589a7da0d4" />
+<img width="800" height="700" alt="    blockbuster-closing" src="https://github.com/user-attachments/assets/aa133314-1737-497f-88fb-39589a7da0d4" />
 
 <br>
 <sub>Figure 1: Blockbuster store closing in Michigan, 2013. Photo: Dwight Burdette (2013), Wikimedia Commons, CC BY 3.0.</sub>
@@ -57,11 +57,11 @@ access movies, games and music.**
 
 <img width="600" height="400" alt="library" src="https://github.com/user-attachments/assets/27943bb3-de2d-4879-a14d-44aabe54a2c9" />
 
-<sub>Figure 4: Public internet access at Fort Worth Library, USA. Photograph by Informationwave (2009), Wikimedia Commons, CC BY 3.0.<sub>
+<sub>Figure 4: Public internet access at Fort Worth Library, USA. Photograph by Informationwave (2009), Wikimedia Commons, CC BY 3.0.</sub>
 
 
 # Privacy and Personal Data #
-**Another important issue is Privacy.The platforms that we use to stream can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on on our watched history.According to Ireland's Data Protection Commission(n.d.), organisations must be clear and and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
+**Privacy is another issue that is very importan.The platforms that we use to stream(Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored .These watch recommendations can be useful, this shows how much personal information these companies can collect from their customers.Most users might not immediately realise how much of their information is stored and/or used.This is a huge privacy concern especially since most people agree to their terms and conditions without reading them properly and failing to fully understand them. Organisations must be clear  and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
 
 <img width="600" height="300" alt="servers" src="https://github.com/user-attachments/assets/8e09b44a-3873-46a6-852e-fc580ad865f7" />
 
@@ -69,7 +69,7 @@ access movies, games and music.**
 
 
 # Fair Payment for Artists and Creators #
-**Since streaming music now is more popular than ever, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed. According to a study from the UK's Competition and Markets Authority(2022) it was found that more than 60% of music streams were associated by the top 0.4% of artists. This shows that based on their study that in 2020 that just 0.4% of artists accounted for more than 60% of music streams, this also shows how a very small percentage of artists attract most of the listeners, but thousands of smaller artists struggle to the same attention and recognition that they deserve. The report also showed that the potential earnings for an artist could be around £12,000 from 12 million streams annually, but less than 1% of artists managed to achieve that. Even though streaming can give independent artists the opportunity to reach a larger audience without signing with a record label, earning a decent enough income can be very challenging. A possible improvement to this problem would be for the streaming platforms to make their payment systems more transparent and allowing artists to understand how their earnings are calculated.They can also improve by offering fairer contracts and much better support for independent artists.**
+**Since streaming music now is more popular than ever, thanks to streaming services like Spotify, Apple Music and Sound Cloud etc, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed. According to a study from the UK's Competition and Markets Authority(2022) it was found that more than 60% of music streams were associated by the top 0.4% of artists. This shows that based on their study that in 2020 that just 0.4% of artists accounted for more than 60% of music streams, this also shows how a very small percentage of artists attract most of the listeners, but thousands of smaller artists struggle to get the same attention and recognition that they deserve for their work. The report also showed that the potential earnings for an artist could be around £12,000 from 12 million streams annually, but less than 1% of artists managed to achieve that. Even though streaming can give independent artists the opportunity to reach a larger audience without signing with a record label, earning a decent enough income can be very challenging. A possible improvement to this problem would be for the streaming platforms to make their payment systems more transparent and allowing artists to understand how their earnings are calculated.They can also improve by offering fairer contracts and much better support for independent artists.**
 
 <img width="1920" height="1280" alt="fair payments artists" src="https://github.com/user-attachments/assets/d22ed101-2ed6-4522-a73b-07ba3588f697" />
 
