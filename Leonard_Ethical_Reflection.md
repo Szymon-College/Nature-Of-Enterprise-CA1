@@ -1,6 +1,7 @@
 
 # Ethical Reflection and Improvements 
 **The growth of streaming services such Netflix, Spotify and digital gaming platforms has completely changed how people access entertainment.**
+**These days people can watch movies, download video games and listen to music without the need to visit a physical store.**
 **Although streaming is convenient and gives customers more choice, it has also created some ethical problems.**
 **These include the loss of jobs, digital ownership(which means people no longer own the content that they have paid for), privacy and the way some artists are paid for their work.**
 
