@@ -23,6 +23,7 @@
 **For example, purchasing a DVD means that the customer only pays once and kept it for life, could lend it to a family member or friend and watch it without a subscription.**
 **However, Netflix subscribers can only receive access to content under the service's terms which means that they have to pay in order to access.**
 **Netflix also states that that titles may become unavailable as its catalogue changes over time(Netflix,2026).**
+**Another ethical concern is digital ownership when consumers purchase video games, for example when buying a game via the Playstation Store, they're actually buying a license in order to play the game instead of owning the game outright. According to Playstation's Software Usage Terms(Playstation, n.d.), customers are granted permission to use the software under certain conditions, but they do not own the software itself. This means that the games that we buy digitally are tied to our specific account and they cannot be sold or lended to someone else like they used to be with physical discs. The physical discs also contained licensed software but the biggest difference is that the customer still owned the content after it was purchased.**
 **This raises questions about how much control consumers actually have over their entertainment.**
 **Streaming companies should be able to clearly explain what their customers are paying for and including any restrictions on downloading and accessing content.**
 **The European Commission(n,d)also outlines consumer protections for digital services, showing why clear digital rights are important.**
@@ -98,6 +99,8 @@ GameStop Corp. (2025) *Annual Report on Form 10-K for the fiscal year ended 1 Fe
 Netflix (2026) *Netflix Terms of Use*. Available at: https://help.netflix.com/en/legal/termsofuse (Accessed: 20 October 2026).
 
 O'Faolain, A. (2016) 'Liquidator appointed to Xtra-vision, 580 jobs at risk', *The Irish Times*, 27 January. Available at: https://www.irishtimes.com/business/retail-and-services/liquidator-appointed-to-xtra-vision-580-jobs-at-risk-1.2512325 (Accessed: 20 October 2026).
+
+Sony Interactive Entertainment (n.d.) Software Usage Terms (UK). PlayStation. Available at: https://www.playstation.com/en-gb/legal/software-usage-terms.html/ (Accessed: 27 October 2026).
 
 ## Image References
 1. Blockbuster Store Closing — Figure 1
