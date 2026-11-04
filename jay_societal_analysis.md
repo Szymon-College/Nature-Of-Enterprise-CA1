@@ -28,6 +28,8 @@
 
 - As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. Rather than purchasing and owning DVDs or CDs, consumers are increasingly pay subscription fees for temporary access to content. This has changed the expectations from the consumer where users are now valuing convenience with consumers expecting contents to be available across multiple devices and reduce dependence on physical retailers. As a result, entertainment became more accessible and flexible, but consumers had become increasingly dependent on digital platforms and recurring subscription services with the decline of dependency on physical media, it change how people purchase and consume media.
 
+- (Before and After Photos)
+
 # Mental wellbeing in young people
 
 - Young people in this decade are subjected to a variety of streaming platform such as Netflix or Amazon Prime and can lead to higher consumption of digital entertainment in comparison to young people in the early 2000s as they relied on DVDs and scheduled television programmes. As demand for streaming platforms continues to surge, it can affect on younger generations' mental wellbeing and can contribute to bad personal habits such as high volume of screen time and poor sleeping habits. Venkatesh, Sripriya and Rajkamal (2026) highlights younger generations, primarily Gen Z where these individuals would "multitask" and "binge-watch" leading to "cognitive overload" that could affect their "learning" and "academic performance". It also explains why high frequency use of these platforms does not result in better overall knowledge.
@@ -36,6 +38,8 @@
 
 - From a social analysis perspective, young people engage more in these streaming platform instead of social activities such as going outside with peers. In addition streaming platforms are flexible which can encourage individuals to watch late night shows and disrupt sleeping habits. As the evidence suggests, excessive streaming with the addition to insufficient sleep could potentially affect academic performance for students. As these become more increasingly common among the young generations, there would be concerns of media consumption and digital wellbeing.
 
+- - (Before and After Photos)
+
 # Encourage cultural diversity
 
 - The transition from physical media to streaming platforms has exposed viewers to international entertainment where Netflix contains different cultures of entertainment, ranging from documentary to drama. Netflix promotes international entertainment as it has recommendation algorithm and can allow its audience to encounter international entertainment. According to Guha (2023, p.5), Netflix has a collection of "international content", additionally, it specifies that it forms "a bridge" in communities.
@@ -43,6 +47,8 @@
 - In addition, the transition from physical media to streaming platforms allowed international entertainment more accessible through language options such as English dubbing. According to Salsabila (2021, p.20), "85%" of American Netflix viewers preferred English dubbing when watching the Danish series *The Rain*, while "78%" preferred dubbing for the German series *Dark* and it suggests that language accessibility can encourage the audience to explore international entertainment without being discouraged by unfamiliar languages. Based on this evidence, streaming platforms could encourage cultural diversity by exposing viewers to different traditions, lifestyles and cultural perspectives, potentially increasing their awareness and appreciation of other cultures.
 
 - Transitioning from physical media to streaming platforms allowed how individuals engage with different cultures. With recommendation algorithms and language options allows the audience to encounter other cultural traditions. This could encourage greater cultural awareness as viewers are exposed to unfamiliar lifestyle and social values. Streaming platforms also have the potential to reduce cultural barries by allowing international entertainment easier to discover, understand and contribute positively to cultural diversity.
+
+- (Before and After Photos)
 
 # References:
 
@@ -59,3 +65,5 @@ Tucker, B. (2025) ‘Streaming fatigue’, _Octane Seating_, 25 July. Available 
 Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, _Review on Economic Cycles_, 7(1), pp. 5–23. doi: 10.69980/rec.v7i1.124.
 
 Whitten, S. (2019) 'The death of the DVD: Why sales dropped more than 86% in 13 years', _CNBC_, 8 November. Available at: https://www.cnbc.com/2019/11/08/the-death-of-the-dvd-why-sales-dropped-more-than-86percent-in-13-years.html (Accessed: 19 October 2026).
+
+# Image References:
