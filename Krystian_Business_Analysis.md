@@ -28,4 +28,6 @@ Legacy entertainment businesses thrived on "windowing" - selling a movie first i
 The Death of the "Long Tail" Retail Profit:
 In the physical era, a studio could make a profit years later on obscure DVD sales. In streaming, low-viewership content becomes a financial liability due to residual talent payouts and hosting costs, leading platforms to occasionally scrub content entirely for tax write-offs.
 
+Netflix
+
 
