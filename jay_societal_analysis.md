@@ -28,11 +28,11 @@
 
 - As these streaming platforms increasingly became widespread, transactional purchases declined in film and music specialist retailer. From a social analysis perspective, this would represent the change of ownership-based consumption to access-based consumption. Rather than purchasing and owning DVDs or CDs, consumers are increasingly pay subscription fees for temporary access to content. This has changed the expectations from the consumer where users are now valuing convenience with consumers expecting contents to be available across multiple devices and reduce dependence on physical retailers. As a result, entertainment became more accessible and flexible, but consumers had become increasingly dependent on digital platforms and recurring subscription services with the decline of dependency on physical media, it change how people purchase and consume media.
 
-- Before: <img width="330" height="220" alt="330px-Sonic_Boom_record_store_interior,_Toronto_2026" src="https://github.com/user-attachments/assets/6483dc17-7d56-4fab-888b-c45271a5dbe5" /> 
+Before: <img width="330" height="220" alt="330px-Sonic_Boom_record_store_interior,_Toronto_2026" src="https://github.com/user-attachments/assets/6483dc17-7d56-4fab-888b-c45271a5dbe5" /> 
 
 **Customers browsing physical media at Sonic Boom** (Chicken4War, 2026)
 
-- After: <img width="330" height="247" alt="330px-Home-AppleTV-3RevA" src="https://github.com/user-attachments/assets/bcdc9c81-4dec-4e88-867e-347e477979fb" />
+After: <img width="330" height="247" alt="330px-Home-AppleTV-3RevA" src="https://github.com/user-attachments/assets/bcdc9c81-4dec-4e88-867e-347e477979fb" />
 
 **Media readily available in Streaming Platforms such as Youtube and Netflix** (Wadzifox, 2016)
 
@@ -44,7 +44,7 @@
 
 - From a social analysis perspective, young people engage more in these streaming platform instead of social activities such as going outside with peers. In addition streaming platforms are flexible which can encourage individuals to watch late night shows and disrupt sleeping habits. As the evidence suggests, excessive streaming with the addition to insufficient sleep could potentially affect academic performance for students. As these become more increasingly common among the young generations, there would be concerns of media consumption and digital wellbeing.
 
-- <img width="330" height="220" alt="330px-Tired_of_studying" src="https://github.com/user-attachments/assets/f85f0eba-ad9a-4b37-8505-4a7e6dced4ea" />
+<img width="330" height="220" alt="330px-Tired_of_studying" src="https://github.com/user-attachments/assets/f85f0eba-ad9a-4b37-8505-4a7e6dced4ea" />
 
 **Studying with sleep depreviation** (Rukavitsin, 2023)
 
@@ -56,11 +56,11 @@
 
 - Transitioning from physical media to streaming platforms allowed how individuals engage with different cultures. With recommendation algorithms and language options allows the audience to encounter other cultural traditions. This could encourage greater cultural awareness as viewers are exposed to unfamiliar lifestyle and social values. Streaming platforms also have the potential to reduce cultural barries by allowing international entertainment easier to discover, understand and contribute positively to cultural diversity.
 
-- <img width="1200" height="559" alt="wJnFrpHsJTh3UtYHuphuAa-1200-80 jpg" src="https://github.com/user-attachments/assets/789d878c-5245-4cc7-b924-3a4d5369baa3" />
+<img width="1200" height="559" alt="wJnFrpHsJTh3UtYHuphuAa-1200-80 jpg" src="https://github.com/user-attachments/assets/789d878c-5245-4cc7-b924-3a4d5369baa3" />
 
 **Language options in Netflix** (Netflix, reproduced in Shore, 2022)
 
-- <img width="600" height="800" alt="image_readtop_2021_1021889_16353981774830604" src="https://github.com/user-attachments/assets/7bf1d218-a6d6-4830-bb6e-5b2f83cfe22d" />
+<img width="600" height="800" alt="image_readtop_2021_1021889_16353981774830604" src="https://github.com/user-attachments/assets/7bf1d218-a6d6-4830-bb6e-5b2f83cfe22d" />
 
 **Engaging in traditional Korean games inspired from 'Squid Games' in New York** (Korea Tourism Organization, 2021)
 
