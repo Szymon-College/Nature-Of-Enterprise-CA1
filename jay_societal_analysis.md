@@ -62,7 +62,7 @@ After: <img width="330" height="247" alt="330px-Home-AppleTV-3RevA" src="https:/
 
 <img width="600" height="800" alt="image_readtop_2021_1021889_16353981774830604" src="https://github.com/user-attachments/assets/7bf1d218-a6d6-4830-bb6e-5b2f83cfe22d" />
 
-**Engaging in traditional Korean games inspired from 'Squid Games' in New York** (Korea Tourism Organization, 2021)
+**Engaging in traditional Korean games inspired from 'Netflix - Squid Games' in New York** (Korea Tourism Organization, 2021)
 
 # References:
 
