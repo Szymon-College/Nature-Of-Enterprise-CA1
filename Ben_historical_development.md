@@ -40,13 +40,14 @@ Collapsed of rental stores and stores relating to physical media
 
 # Music 
 1878-Phonograph
-The first case of physical media was around 1878 when the was invented phonograph cylinder where it was the first case of recording media and reproducing media, it worked using a waxed cylinder and with a stylus would etch waveforms into the cylinder  when played with a needle moved by a vibrating membrane would generate sound that was recorded, The material changed from wax to metal
+The first case of physical media was around 1878 when the was invented phonograph cylinder where it was the first case of recording media and reproducing media, it worked using a waxed cylinder and with a stylus would etch waveforms into the cylinder  when played with a needle moved by a vibrating membrane would generate sound that was recorded, The material changed from wax to metal to help perseve after long use
 
 1889-Vinyl
-This used the same idea of the phonograph cylinder where instead of a waxed cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound.
+This used the same idea of the phonograph cylinder where instead of a waxed/metal cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound.
 
 1963-Cassette 
-
+Cassette are magnetic analog tapes , this made physical media more consumer friendly and they were more sturdy and less is size than Vinyl making on the go travel much easier 
+Sony brought out the walkman which used the cassettes to record and play sounds, this was a defing piece of technology which shaped culture as music and other audio entertainment were made available 
 
 
 
@@ -62,7 +63,7 @@ This used the same idea of the phonograph cylinder where instead of a waxed cyli
 # Gaming
 1970's- Hardwired games    First instance of physical media in Video games were not made to have any removable media at all, it was built into the system with most of the games being pong games, this made consumers to stick with one system as the only way to play new games were with buying a new system
 
-1977's-Rom Cartridges were plastic shells meant to be connected to the system, this added the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it. This made developers the option to create games for the system and 3rd party companies  which began the boom of the gaming market  
+1977's-Rom Cartridges were plastic shells meant to be connected to the system, thisadded the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it. This made developers the option to create games for the system and 3rd party companies  which began the boom of the gaming market  
 
 
 
