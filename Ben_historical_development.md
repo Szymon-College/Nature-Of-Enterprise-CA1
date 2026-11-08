@@ -47,7 +47,8 @@ This used the same idea of the phonograph cylinder where instead of a waxed/meta
 
 1963-Cassette 
 Cassette are magnetic analog tapes , this made physical media more consumer friendly and they were more sturdy and less is size than Vinyl making on the go travel much easier 
-Sony brought out the walkman which used the cassettes to record and play sounds, this was a defing piece of technology which shaped culture as music and other audio entertainment were made available 
+
+1979-Walkman Sony brought out the walkman which used the cassettes to record and play sounds, this was a defing piece of technology which shaped culture as music and other audio entertainment were made available 
 
 
 
