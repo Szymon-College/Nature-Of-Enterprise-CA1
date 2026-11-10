@@ -6,7 +6,8 @@
 **These include the loss of jobs, digital ownership(which means people no longer own the content that they have paid for), privacy and the way some artists are paid for their work.**
 
 ## Job Losses and the Decline of Physical Stores  
-**Traditional shops such as Xtra-Vision and Blockbuster struggled the most as customers moved toward the digital entertainment route.**
+**Traditional shops such as Xtra-Vision and Blockbuster were once the most popular places to go whenever you wanted to rent a movie  to watch with your family or even rent a 
+video game, however they have struggled the most unfortunately as most customers moved toward the digital entertainment route due to convenience and lower upfront cost and then adding a low monthly payment without having to leave their house.**
 **In January 2016, Extra-Vision entered liquidation while also putting approximately 583 jobs at risk(O'Faolain, 2016).**
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
 **This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
