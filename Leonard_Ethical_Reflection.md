@@ -54,9 +54,10 @@ Photo: u/Usual-Star-8379 (2024).</sub>
 **Streaming also creates difficulties for people that don't have a reliable internet connection and according to Central Statistics Office(2025),**
 approximately 95% of Irish households had internet access in 2025 which means that a very small proportion of households had no internet access.**
 **Because most physical rental shops have now become less common, people who cannot access streaming services may have less entertainment options,
-especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging.**
+especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging. This also means that just having internet access doesn't mean that everyone can afford streaming services or have a fast enough connection to be able to stream their movies without any interruptions.**
 **Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
 access movies, games and music.**
+**I think that it's important that people shouldn't be left behind just because technology is changing and can become unaffordable due to rising costs of living and monthly subscriptions becoming more expensive, some people may struggle to be able to afford these services, especially when they need several subscriptions to access their favorite movies, tv shows and music.**
 
 <img width="600" height="400" alt="library" src="https://github.com/user-attachments/assets/27943bb3-de2d-4879-a14d-44aabe54a2c9" />
 
