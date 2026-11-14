@@ -6,7 +6,8 @@
 **These include the loss of jobs, digital ownership(which means people no longer own the content that they have paid for), privacy and the way some artists are paid for their work.**
 
 ## Job Losses and the Decline of Physical Stores  
-**Traditional shops such as Xtra-Vision and Blockbuster struggled the most as customers moved toward the digital entertainment route.**
+**Traditional shops such as Xtra-Vision and Blockbuster were once the most popular places to go whenever you wanted to rent a movie  to watch with your family or even rent a 
+video game, however they have struggled the most unfortunately as most customers moved toward the digital entertainment route due to convenience and lower upfront cost and then adding a low monthly payment without having to leave their house.**
 **In January 2016, Extra-Vision entered liquidation while also putting approximately 583 jobs at risk(O'Faolain, 2016).**
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
 **This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
@@ -53,9 +54,10 @@ Photo: u/Usual-Star-8379 (2024).</sub>
 **Streaming also creates difficulties for people that don't have a reliable internet connection and according to Central Statistics Office(2025),**
 approximately 95% of Irish households had internet access in 2025 which means that a very small proportion of households had no internet access.**
 **Because most physical rental shops have now become less common, people who cannot access streaming services may have less entertainment options,
-especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging.**
+especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging. This also means that just having internet access doesn't mean that everyone can afford streaming services or have a fast enough connection to be able to stream their movies without any interruptions.**
 **Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
 access movies, games and music.**
+**I think that it's important that people shouldn't be left behind just because technology is changing and can become unaffordable due to rising costs of living and monthly subscriptions becoming more expensive, some people may struggle to be able to afford these services, especially when they need several subscriptions to access their favorite movies, tv shows and music.**
 
 <img width="600" height="400" alt="library" src="https://github.com/user-attachments/assets/27943bb3-de2d-4879-a14d-44aabe54a2c9" />
 
