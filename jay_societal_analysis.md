@@ -91,3 +91,16 @@ Rukavitsin, E. (2023) _Tired of studying_. [Photograph]. Available at: https://c
 Shore, M. (2022) _How to turn off subtitles on Netflix and turn them on._ What to Watch. Available at: https://www.whattowatch.com/how-to/how-to-turn-off-subtitles-on-netflix-and-turn-them-on (Accessed: 7 November 2026).
 
 Korea Tourism Organization (2021) _New Yorkers gather in green tracksuits to play real-life "Squid Game"._ [Photograph]. Published in _Pulse_, 28 October. Available at: https://pulse.mk.co.kr/news/english/10077072 (Accessed: 7 November 2026).
+
+
+
+
+
+(Jay's Individual Work)
+# Peer Review: 
+- 300 Words (individual Work)
+- 
+
+
+
+
