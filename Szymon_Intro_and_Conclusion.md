@@ -6,21 +6,12 @@
 - Give a brief history
 - Define what streaming services are
 - Explain how they work
+
+Conclusion - Synthesis and broader implications
 ---
-### Context
-Streaming is the consumption of media without the need of downloading said media onto the device, by transfering the data from a server to the user's device over the internet.(Pollete, 2024) Any type of media can be streamed, movies and shows with platforms such as Netflix and Disney+, music and podcasts with platforms such as Spotify and SoundCloud and games with Xbox. 
-### Significance
-Businesses that revolved around renting hardware such as DVDs and disks were overshadowed by the sudden rise of streaming services where consumers did not need to need to leave their house to access their media. However, this made consumers pay way more as streaming services allow consumers to access a large library of media for a monthly subscription rather than renting a singular movie with the rental stores.
-### Thesis Statement
-The transformation of streaming services has revolutionized the media industry for both consumers and businesses. Businesses have adapted to the sudden rise of streaming services by killing off the need of physical hardware and the renting business to allow consumers to watch anything they want from the comfort of their own home for an on going subscription.
-### Viewpoint Selection
-This case study will examine how both society and businesses have been impacted with the transformation of streaming services. The societal viewpoint will explore how people are willing to give up their ownership of owning their media to have constant access by paying a monthly fee and the new habits that are formed due to the rise of streaming services. The business viewpoint will look at the extinction of older business models that relied on physical media whilst businesses who adapted to the sudden rise of streaming services flourished as they have entered a market which was incredibly scalable and allowed for a steady monthly income stream.
+
 ---
-#### First Draft
-This case study aims to examine how streaming services have changed how businesses operate and how people enjoy media. 
-Physical businesses such as Blockbuster in America where people go to a store to rent out physical DVDs, disks and other hardware to watch movies/series and rent certain video games were quickly eaten up by new businesses and platforms such as Disney+ and businesses that adapted to the changes such as Netflix quickly prospered as people were able to access the same services online without the need of leaving their house and the hassle of picking up and returning the disks and other hardware. 
----
-#### Second draft
+## Introduction
 This case study examines the change in how people consume media and changing their habits and how businesses deliver and produce media through the transformation of streaming services. Streaming any form of media from a server to a user's device requires the internet. The data of the media gets sent to a user's device by a server through the internet where the user can consume their media without the need of downloading the media file (Pollete, 2024). Streaming is often associated with videos, but it can be done with any form of media such as music and games as well.
 
 This sudden shift of media consumption does not just affect consumers and businesses that provide streaming services, but other related businesses such as the extinct businesses that rented media to consumers are also affected. The world has been becoming more interconnected as ever before and this includes all things streaming related. People can watch movies and shows produced from one country despite living in a different country where they do not speak the language the media was produced in (Gul, 2023). One widely known example of this was Squid Game which was a show that was produced in South Korea and gained popularity in 2021 (About Netflix, 2025).
@@ -30,6 +21,8 @@ This topic will be looked at through two different viewpoints, societal and busi
 
 
 # Conclusion 
+#### First draft
+The transformation of streaming services was a sudden and unexpected change in the digital era which has forever changed how people produce and consume media. Through the societal viewpoint, we can see that people prefer having constant access to a massive library of entertainment where they most likely will not fully explore, rather than owning a selected amount of media they enjoy. However, it is important to note that businesses have so much control over the consumer as they can remove aspecific show, movies, songs or any other type of media from their platforms at any time or the business can raise their prices for a subscription at any given time. However, someone might have never had the chance to discover their favourite show if it was not for streaming services offering a catalogue of international shows. Through the business viewpoint, we can see that providing streaming 
 
 # References
  - Pollete, C. (2007). How streaming video and audio work. [online] Available at: https://electronics.howstuffworks.com/tech/streaming-video-and-audio.htm [Accessed 27 Oct. 2026].
