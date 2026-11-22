@@ -18,3 +18,12 @@ We're seeing a mature market in a transition environment, which means that there
 
 The large long-term investment projects of the past are becoming scarcer, and projects that fulfil specific business requirements such as externalising infrastructure to reduce costs are more and more commonplace.
 
+In recent years, the film industry had experienced a seismic transformation, propelled by the meteoric rise of streaming devices.Platforms like Netflix,Amazon Prime Video,Disney+ and HBO Max have revolutionized how audiences engage with movies and TV shows.This revoultion extends far beyond mere convenience, reshaping the entire landscape of film production,distribution and audience interaction.
+
+
+REFERENCES: 
+https://www.tedial.com/how-is-the-industry-transforming-from-a-business-perspective/
+
+https://adeia.com/blog/industry-perspective-streaming-technology-evolution?154e7681_page=8
+
+https://www.starburstmagazine.com/features/the-rise-of-streaming-services-how-they-are-changing-the-film-industry/
