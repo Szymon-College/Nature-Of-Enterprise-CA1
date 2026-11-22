@@ -12,5 +12,9 @@ The rapid evolution of streaming technology shows no signs of slowing, with cont
 
 Streaming video subscription and video advertising revenues have raced higher as a result rising from just over 2 billion $ in combined revenues into 2010 to likey surpassing the 100 billion $ mark by 2026. while some of streaming's headlong growth has come at the expense of traditional multichannel,TV network and film renvenue streams,impacts have varied widely.Media giants including Disney comcast/NBCU, paramount and fox Corp.Have also leaned heavily into the streaming model, aiming to offset declining traditional TV revenues with digital dollars. 
 
+The media industry has changed dramatically.First transitioning from analogue to digital, then SD to HD and UHD also from SDI to IP.Add the shift consumer habits to these technological milestones and you have an almost unrecognisable entity compared to the one that existed only 15 to 20 years ago.
 
+We're seeing a mature market in a transition environment, which means that there's a reluctane to invest in infrastructure and MAM(media assest management) technology. Broadcasters and media companies know how technology will evolve but they don't know how their business will, which means it's difficult for them to take long term decisions.Also traditional broadcasters revenues have reduced considerably,which means budgets have slashed.They need to operate more efficiently and streamline their costs. 
+
+The large long-term investment projects of the past are becoming scarcer, and projects that fulfil specific business requirements such as externalising infrastructure to reduce costs are more and more commonplace.
 
