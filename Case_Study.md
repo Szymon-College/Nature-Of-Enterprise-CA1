@@ -62,6 +62,6 @@ Suresh, A. (2019) Netflix Streaming [Photograph]. Wikimedia Commons. Available a
 
 Usual-Star-8379 (2024) 'My 1st and only steelbook. PS3 GTA V Pre-order Special Edition 2013 with Blueprint Map' [Photograph]. Reddit, r/GTA, 29 October. Available at: Reddit – GTA V Steelbook photograph⁠￼ (Accessed: 21 October 2026).
 
-Voynovskaya, N. (2021) 'Musicians demand better pay at Spotify headquarters around the world' [Photographs accompanying online article]. KQED, 16 March. Available at: KQED – Spotify protest photographs⁠￼ (Accessed: 21 October 2026).
+Voynovskaya, N. (2021) 'Musicians demand better pay at Spotify headquarters around the world' [Photographs accompanying online article]. KQED, 16 March. Available at: https://www.kqed.org/arts/13893952/musicians-demand-better-pay-at-spotify-headquarters-around-the-world (Accessed: 21 October 2026).
 
 Wadzifox (2016) Home-AppleTV-3RevA. [Photograph]. Available at: https://commons.wikimedia.org/wiki/File:Home-AppleTV-3RevA.JPG (Accessed: 7 November 2026).
