@@ -28,7 +28,9 @@ CDs
 
 # Film
 1970's-80's 
-The first cases of physical media for film were vhs and Betamax which brought film to a wider audience , these formats used analog to prodcast  
+The first cases of physical media for film were Vhs and Betamax which brought film to a wider audience , these formats used magnetic tape to record and show film. both were in  a format war until Vhs became the standard for physical due to it's longer recording times beating Betamax by a full hour. 
+
+By time the 80's it was the golden age of Physical media for Films with rental stores popping up in many countries with the most famous being Blockbusters and for Ireland being Extra-vision   
 
 
 # Gaming
