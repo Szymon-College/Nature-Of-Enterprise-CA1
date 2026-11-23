@@ -39,7 +39,7 @@ CDs
 The play station 1 was the first huge console to use discs with it being able to hold more information and real time cutscenes, This has been the physical media used for games with modern consoles still using it
 
 The slow fall- 2000's to now
-The seventh generation of consoles  added a feature, a shop built into the console were users could buy games on the console it self , this removed the middle man which are stores selling games
+The seventh generation of consoles  added a feature, a shop built into the console were users could buy games on the console it self , this removed the middle man which are stores selling games and made consoles more in line with computers. The few generations of consoles saw more and more consoles without any physical media as disc where drives for the disc were not included as the console fully relied on the store 
 
 
 
