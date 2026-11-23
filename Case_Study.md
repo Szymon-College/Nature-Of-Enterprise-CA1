@@ -14,9 +14,9 @@ European Commission (n.d.) Digital contract rules. Available at: https://commiss
 
 GameStop Corp. (2025) Annual Report on Form 10-K for the fiscal year ended 1 February 2025. Available at: https://www.sec.gov/Archives/edgar/data/1326380/000162828025014731/gme-20250201.htm (Accessed: 19 October 2026).
 
-Gul, H. (2023). Our interconnected world: Navigating A complex global landscape. [online] Earth. Available at: https://vocal.media/earth/our-interconnected-world-navigating-a-complex-global-landscape [Accessed 7 Nov. 2026].
-
 Guha, P. (2023) 'Never Have I Ever: A Critical Analysis on the Role of Netflix in Promoting Multiculturalism', International Journal for Multidisciplinary Research, 5(5), pp. 1–13. doi: 10.36948/ijfmr.2023.v05i05.7252.
+
+Gul, H. (2023). Our interconnected world: Navigating A complex global landscape. [online] Earth. Available at: https://vocal.media/earth/our-interconnected-world-navigating-a-complex-global-landscape [Accessed 7 Nov. 2026].
 
 Kuyucu, M. (2026) 'The growth of Spotify and the digital music industry', in Türkyılmaz, C.A. and Erdem, Ş. (eds.) Digital Marketing Transformation: Road Map and Marketing Concepts. Istanbul: Haliç Publishing House, pp. 317–342. doi: 10.38066/hy.57758zyk.hph.
 
