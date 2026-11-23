@@ -32,7 +32,9 @@ Rolling Stone (2018) 'The end of owning music: How CDs and downloads died', Roll
 
 Salsabila, K. (2021) 'Netflix: Cultural Diversity or Cultural Imperialism?', Rubikon: Journal of Transnational American Studies, 8(1), pp. 15–27. doi: 10.22146/rubikon.v8i1.65480.
 
-Sony Interactive Entertainment (n.d.) Software Usage Terms (UK). PlayStation. Available at: https://www.playstation.com/en-gb/legal/software-usage-terms.html/ (Accessed: 27 October 2026). Sony Interactive Entertainment (2026) PlayStation Network Terms of Service. Available at: PlayStation official terms⁠￼ (Accessed: 5 November 2026).
+Sony Interactive Entertainment (n.d.) Software Usage Terms (UK). PlayStation. Available at: https://www.playstation.com/en-gb/legal/software-usage-terms.html/ (Accessed: 27 October 2026). 
+
+Sony Interactive Entertainment (2026) PlayStation Network Terms of Service. Available at: PlayStation official terms⁠￼ (Accessed: 5 November 2026).
 
 Tucker, B. (2025) 'Streaming fatigue', Octane Seating, 25 July. Available at: https://octaneseating.com/blog/streaming-fatigue/ (Accessed: 22 October 2026).
 
