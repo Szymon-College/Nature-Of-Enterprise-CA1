@@ -44,13 +44,13 @@ Whitten, S. (2019) 'The death of the DVD: Why sales dropped more than 86% in 13 
 
 ### Image References
 
-Burdette, D. (2013) Blockbuster Store Closing, Ypsilanti Township, Michigan [Photograph]. Wikimedia Commons. Available at: Wikimedia Commons – Blockbuster photograph⁠￼ (Accessed: 21 October 2026).
+Burdette, D. (2013) Blockbuster Store Closing, Ypsilanti Township, Michigan [Photograph]. Wikimedia Commons. Available at: https://commons.wikimedia.org/wiki/File:Blockbuster_Store_Closing,_Ypsilanti_Township,_Michigan.JPG (Accessed: 21 October 2026).
 
 Chicken4War (2026) Sonic Boom record store interior, Toronto 2026. [Photograph]. Available at: https://commons.wikimedia.org/wiki/File:Sonic_Boom_record_store_interior,_Toronto_2026.jpg (Accessed: 7 November 2026).
 
-Grigas, V. (2015) Wikimedia Foundation Servers 2015-63 [Photograph]. Wikimedia Commons. Available at: Wikimedia Commons – Server photograph⁠￼ (Accessed: 21 October 2026).
+Grigas, V. (2015) Wikimedia Foundation Servers 2015-63 [Photograph]. Wikimedia Commons. Available at: https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers_2015-63.jpg (Accessed: 21 October 2026).
 
-Informationwave (2009) Fort Worth Library Computer Lab [Photograph]. Wikimedia Commons. Available at: Wikimedia Commons – Library photograph⁠￼ (Accessed: 21 October 2026).
+Informationwave (2009) Fort Worth Library Computer Lab [Photograph]. Wikimedia Commons. Available at: Wikimedia Commons – https://commons.wikimedia.org/wiki/File:Fort_Worth_Library_Computer_Lab.jpg (Accessed: 21 October 2026).
 
 Korea Tourism Organization (2021) New Yorkers gather in green tracksuits to play real-life "Squid Game". [Photograph]. Published in Pulse, 28 October. Available at: https://pulse.mk.co.kr/news/english/10077072 (Accessed: 7 November 2026).
 
@@ -58,9 +58,9 @@ Rukavitsin, E. (2023) Tired of studying. [Photograph]. Available at: https://com
 
 Shore, M. (2022) How to turn off subtitles on Netflix and turn them on. What to Watch. Available at: https://www.whattowatch.com/how-to/how-to-turn-off-subtitles-on-netflix-and-turn-them-on (Accessed: 7 November 2026).
 
-Suresh, A. (2019) Netflix Streaming [Photograph]. Wikimedia Commons. Available at: Wikimedia Commons – Netflix photograph⁠￼ (Accessed: 21 October 2026).
+Suresh, A. (2019) Netflix Streaming [Photograph]. Wikimedia Commons. Available at: https://commons.wikimedia.org/wiki/Category:Netflix#/media/File:Netflix_Streaming_(40845736773).jpg (Accessed: 21 October 2026).
 
-Usual-Star-8379 (2024) 'My 1st and only steelbook. PS3 GTA V Pre-order Special Edition 2013 with Blueprint Map' [Photograph]. Reddit, r/GTA, 29 October. Available at: Reddit – GTA V Steelbook photograph⁠￼ (Accessed: 21 October 2026).
+Usual-Star-8379 (2024) 'My 1st and only steelbook. PS3 GTA V Pre-order Special Edition 2013 with Blueprint Map' [Photograph]. Reddit, r/GTA, 29 October. Available at: https://www.reddit.com/r/GTAV/comments/1geln02/my_1st_and_only_steelbook_ps3_gta_v_preorder/ (Accessed: 21 October 2026).
 
 Voynovskaya, N. (2021) 'Musicians demand better pay at Spotify headquarters around the world' [Photographs accompanying online article]. KQED, 16 March. Available at: https://www.kqed.org/arts/13893952/musicians-demand-better-pay-at-spotify-headquarters-around-the-world (Accessed: 21 October 2026).
 
