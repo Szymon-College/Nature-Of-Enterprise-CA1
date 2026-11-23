@@ -27,7 +27,8 @@ CDs
 
 
 # Film
-1970's- The first cases of physical media for film were smaller as tv's could not ke
+1970's-80's 
+The first cases of physical media for film were vhs and Betamax which brought film to a wider audience , these formats used analog to prodcast  
 
 
 # Gaming
@@ -52,8 +53,11 @@ Grand theft Auto Six has been the largest game of the decade to opt out for disc
 
 
 -sources
+
 https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
 https://www.bbc.com/news/articles/c6210nj8gpro
+348804288_The_Death_of_Physical_Media_The_Dangers_of_The_Death_of_Physical_Media
+https://www.eachmoment.co.uk/blog/history-of-vhs-format-war-to-extinction
 
 
 
