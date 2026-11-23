@@ -50,6 +50,10 @@ Cassette are magnetic analog tapes , this made physical media more consumer frie
 
 1979-Walkman Sony brought out the Walkman which used cassettes to record and play sounds, this was a stand out for psychical media
 
+CDs 
+
+rise of music in the digital space 
+
 
 
 
