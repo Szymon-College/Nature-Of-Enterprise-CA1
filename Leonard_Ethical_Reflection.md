@@ -7,10 +7,10 @@
 
 ## Job Losses and the Decline of Physical Stores  
 **Traditional shops such as Xtra-Vision and Blockbuster were once the most popular places to go whenever you wanted to rent a movie  to watch with your family or even rent a 
-video game, however they have struggled the most unfortunately as most customers moved toward the digital entertainment route due to convenience and lower upfront cost and then adding a low monthly payment without having to leave their house.**
-**In January 2016, Extra-Vision entered liquidation while also putting approximately 583 jobs at risk(O'Faolain, 2016).**
+video game, however they have struggled the most  as most customers moved toward the digital entertainment route due to convenience and lower upfront cost and then adding a low monthly payment without having to leave their house.**
+**In January 2016, Extra-Vision entered liquidation, this has put approximately 583 jobs at risk(O'Faolain, 2016).**
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
-**This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
+**This has also happened to major Gaming retailers such as GameStop as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
 
 <img width="800" height="700" alt="    blockbuster-closing" src="https://github.com/user-attachments/assets/aa133314-1737-497f-88fb-39589a7da0d4" />
 
@@ -51,9 +51,9 @@ Photo: u/Usual-Star-8379 (2024).</sub>
 
 
 # Digital Exclusion #
-**Streaming also creates difficulties for people that don't have a reliable internet connection and according to Central Statistics Office(2025),**
+**Streaming also creates difficulties for people that don't have a reliable internet connection and according to the Central Statistics Office(2025),**
 approximately 95% of Irish households had internet access in 2025 which means that a very small proportion of households had no internet access.**
-**Because most physical rental shops have now become less common, people who cannot access streaming services may have less entertainment options,
+**Because most physical rental shops have now become less common, people who can't access streaming services may have fewer entertainment options,
 especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging. This also means that just having internet access doesn't mean that everyone can afford streaming services or have a fast enough connection to be able to stream their movies without any interruptions.**
 **Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
 access movies, games and music.**
@@ -65,7 +65,7 @@ access movies, games and music.**
 
 
 # Privacy and Personal Data #
-**Privacy is another issue that is very importan.The platforms that we use to stream(Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored .These watch recommendations can be useful, this shows how much personal information these companies can collect from their customers.Most users might not immediately realise how much of their information is stored and/or used.This is a huge privacy concern especially since most people agree to their terms and conditions without reading them properly and failing to fully understand them. Organisations must be clear  and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
+**Privacy is another issue that is very important.The platforms that we use to stream (Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored .These watch recommendations can be useful, this shows how much personal information these companies can collect from their customers.Most users might not immediately realise how much of their information is stored and/or used.This is a huge privacy concern especially since most people agree to their terms and conditions without reading them properly and failing to fully understand them. Organisations must be clear  and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
 
 <img width="600" height="300" alt="servers" src="https://github.com/user-attachments/assets/8e09b44a-3873-46a6-852e-fc580ad865f7" />
 
