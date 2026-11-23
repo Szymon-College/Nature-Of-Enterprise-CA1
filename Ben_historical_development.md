@@ -15,7 +15,7 @@ Cassette are magnetic analog tapes , this made physical media more consumer frie
 
 CDs 
 
-*rise of music in the digital space 
+*rise of music in the digital space with computers holding more st
 
 
 
@@ -27,13 +27,19 @@ CDs
 
 
 # Film
-1970's- The first cases of physical media for film were  
+1970's- The first cases of physical media for film were smaller as tv's could not ke
 
 
 # Gaming
 1970's- Hardwired games    First instance of physical media in Video games were not made to have any removable media at all, it was built into the system with most of the games being pong games, this made consumers to stick with one system as the only way to play new games were with buying a new system
 
-1977's-Rom Cartridges were plastic shells meant to be connected to the system, thisadded the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it. This made developers the option to create games for the system and 3rd party companies  which began the boom of the gaming market  
+1977's-Rom Cartridges were plastic shells meant to be connected to the system, this added the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it. This made developers the option to create games for the system and 3rd party companies  which began the boom of the gaming market. This was the gold standard for many generation
+
+1990's to now -discs  
+The play station 1 was the first huge console to use discs with it being able to hold more information and real time cutscenes, This has been the physical media used for games with modern consoles still using it
+
+The slow fall- 2000's to now
+The seventh generation of consoles  added a feature, a shop built into the console were users could buy games on the console it self , this removed the middle man which are stores selling games
 
 
 
