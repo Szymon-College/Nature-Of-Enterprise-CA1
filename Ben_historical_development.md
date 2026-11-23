@@ -44,9 +44,9 @@ The seventh generation of consoles  added a feature, a shop built into the conso
 Subscription for games became more common as major gaming companies began selling monthly Subscription to access large collection of games.
 
 -Today
-On July first of 2026 Sony announced that it will end disc production of their PlayStation consoles. This marked the end of psychical media for gaming as PlayStation held a majority share of the gaming market and them shutting it down could mean others would follow the same path. 
+On July first of 2026 Sony announced that it will end disc production of their PlayStation consoles. This marked the end of psychical media for gaming as PlayStation held a majority share of the gaming market and them shutting it down could mean others would follow the same path. Heavy backlash on this annc
 
-Grand theft Auto Six has been the largest game of the decade to opt out for disc with them selling a case with a code. This marked as a big loss for major retailers as game sales has been mostly through the online space with benefits for buying on the store 
+Grand theft Auto Six has been the largest game of the decade to opt out for disc with them selling a case with a code. This marked as a big loss for major retailers as game sales has been mostly through the online space with benefits for buying online being a pre download where users could download the game 
 
 
 
