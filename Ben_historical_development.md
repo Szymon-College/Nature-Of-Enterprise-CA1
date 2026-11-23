@@ -1,42 +1,5 @@
 # Historical Development
-wip
-timeline of key  events
-
-1878 -The first case of physical media  
-The first case of physical media was around 1878 when the was invented phonograph cylinder  where it was the first case of recording media and reproducing the media 
-
-early 19th century
-Gramophone & Shellac 
-
-mid 20th century
-Vinyl records
-
-1960s-1970's
-audio cassettes and 8 tracks
-laser dics
-Vhs and betamax
-First hard wire for games 
-Rom cartridges
-First Extra-Vison
-1980's
-CDs
-First Blockbusters
-
-1990's
-DvDs
-Optical discs
-Huge market for home films with entire companies focusing on making films for the market (Disney sequels) 
-
-2000's
-Blue-ray
-Spotify- 2006
-NETFLIX founded 2007
-
-
-The seventh generation of consoles Xbox 360 , Playstation 3 and the Wii all launch with or added an online store to their systems where consumers could buy games on the console itself removing the middle men like blockbuster, gamestop and major retailers  
-
-2010s
-Collapsed of rental stores and stores relating to physical media  
+  
 
 # Music 
 1878-Phonograph
@@ -50,6 +13,12 @@ Cassette are magnetic analog tapes , this made physical media more consumer frie
 
 1979-Walkman Sony brought out the Walkman which used cassettes to record and play sounds, this was a stand out for psychical media
 
+CDs 
+
+*rise of music in the digital space with computers holding more st
+
+
+
 
 
 
@@ -58,13 +27,37 @@ Cassette are magnetic analog tapes , this made physical media more consumer frie
 
 
 # Film
-1970's- The first cases of physical media for film were  
+1970's-80's 
+The first cases of physical media for film were Vhs and Betamax which brought film to a wider audience , these formats used magnetic tape to record and show film. both were in  a format war until Vhs became the standard for physical due to it's longer recording times beating Betamax by a full hour. 
+
+By time the 80's it was the golden age of Physical media for Films with rental stores popping up in many countries with the most famous being Blockbusters and for Ireland being Extra-vision   
 
 
 # Gaming
-1970's- Hardwired games    First instance of physical media in Video games were not made to have any removable media at all, it was built into the system with most of the games being pong games, this made consumers to stick with one system as the only way to play new games were with buying a new system
+1977's- Before Physical games were built into consoles but Rom Cartridges were plastic shells meant to be connected to the system, this added the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it. This made developers the option to create games for the system and 3rd party companies  which began the boom of the gaming market. This was the gold standard for many generation
 
-1977's-Rom Cartridges were plastic shells meant to be connected to the system, thisadded the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it. This made developers the option to create games for the system and 3rd party companies  which began the boom of the gaming market  
+1990's to now -discs  
+The play station 1 was the first huge console to use discs with it being able to hold more information and real time cutscenes, This has been the physical media used for games with modern consoles still using it
+
+The slow fall- 2000's to now
+The seventh generation of consoles  added a feature, a shop built into the console were users could buy games on the console it self , this removed the middle man which are stores selling games and made consoles more in line with computers. The few generations of consoles saw more and more consoles without any physical media as disc where drives for the disc were not included as the console fully relied on the store for it's game. Disc sales dropped over the decade as more users opted in for online stores instead of buying physicals media. The diffe
+
+Subscription for games became more common as major gaming companies began selling monthly Subscription to access large collection of games.
+
+-Today
+On July first of 2026 Sony announced that it will end disc production of their PlayStation consoles. This marked the end of psychical media for gaming as PlayStation held a majority share of the gaming market and them shutting it down could mean others would follow the same path. Heavy backlash on this annc
+
+Grand theft Auto Six has been the largest game of the decade to opt out for disc with them selling a case with a code. This marked as a big loss for major retailers as game sales has been mostly through the online space with benefits for buying online being a pre download where users could download the game before the game launched 
+
+
+
+
+-sources
+
+https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
+https://www.bbc.com/news/articles/c6210nj8gpro
+348804288_The_Death_of_Physical_Media_The_Dangers_of_The_Death_of_Physical_Media
+https://www.eachmoment.co.uk/blog/history-of-vhs-format-war-to-extinction
 
 
 

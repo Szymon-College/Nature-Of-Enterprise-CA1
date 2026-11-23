@@ -1,29 +1,12 @@
 Business(viewpoint) *Constrasting perspective with equal depth*
 
-Today's streaming architecture represents a complex integration of hardware and cloud technologies. Implementation approaches vary significantly- functions traditionally handled by hardware devices now often reside in cloud infrastructure, enabling more flexible and scalable solutions. This technical fluidity allows streaming platforms to optimize performance and adapt to changing consumer demands.
-
-Recent developments demonstrate streaming technology expanding reach beyond traditional media. Major retailers now incorporate advanced streaming capabilities into their platforms, showcasing how media delivery technology has become integral to diverse business models.
-
-The techinal complexity of modern streaming platforms involves multiple touchpoints from content ingestion and processing to delivery and playback.Success requires mastering video compression adaptive bitrate streaming, content protection and seamless playback across diverse devices and network conditions.
-
-As traditional and streaming media technologies converge, hybrid distribution models are becoming increasingly common. This convergence drives innovation in synchronized content delivery,cross-platform user experiences and integrated analytics capabilities. 
-
-The rapid evolution of streaming technology shows no signs of slowing, with continued advancement in cloud infrastructure,edge computing, and content delivery networks shaping the future of media distribution.
-
 Streaming video subscription and video advertising revenues have raced higher as a result rising from just over 2 billion $ in combined revenues into 2010 to likey surpassing the 100 billion $ mark by 2026. while some of streaming's headlong growth has come at the expense of traditional multichannel,TV network and film renvenue streams,impacts have varied widely.Media giants including Disney comcast/NBCU, paramount and fox Corp.Have also leaned heavily into the streaming model, aiming to offset declining traditional TV revenues with digital dollars. 
 
 The media industry has changed dramatically.First transitioning from analogue to digital, then SD to HD and UHD also from SDI to IP.Add the shift consumer habits to these technological milestones and you have an almost unrecognisable entity compared to the one that existed only 15 to 20 years ago.
 
-We're seeing a mature market in a transition environment, which means that there's a reluctane to invest in infrastructure and MAM(media assest management) technology. Broadcasters and media companies know how technology will evolve but they don't know how their business will, which means it's difficult for them to take long term decisions.Also traditional broadcasters revenues have reduced considerably,which means budgets have slashed.They need to operate more efficiently and streamline their costs. 
+The digital economy is a sector in its own right which exists alongside others such as manufacturing and retail (Jordan,2020:p1-17).Some firms are identified as operating within it, such as software developers and video game publishers. Most businesses and sectors, however are not born digital but have embarked on a process of digitization.it is the case of media and entertainment, and the platformization of televison is among the most visible signs of this process. streaming platforms can be defined as those whose business model rests on video monetization.They overlap but are distinct from social media platforms that stream videos but whose business case does not entirely rest on them (Cunningham and Craig,2019).The former includes Facebook watch, Neflix and Youtube, instagram and twitter.
 
-The large long-term investment projects of the past are becoming scarcer, and projects that fulfil specific business requirements such as externalising infrastructure to reduce costs are more and more commonplace.
+While VOD pre-existed streaming and was developed by cable and sateilite pay-TV services (Rookie,2009):p216-234;(Tydeman and kelm,1986);(Vittet-philippe,1999), platforms have brought changes to the monetization formats.Advertising has always been a key revenue stream for broadcasters,but it is streaming that brought AVOD to the forefront of the TV industry in the 2000s.
 
-In recent years, the film industry had experienced a seismic transformation, propelled by the meteoric rise of streaming devices.Platforms like Netflix,Amazon Prime Video,Disney+ and HBO Max have revolutionized how audiences engage with movies and TV shows.This revoultion extends far beyond mere convenience, reshaping the entire landscape of film production,distribution and audience interaction.
+Streaming platforms innovate on two other counts. First, they  are scaling up these monetization models. Pay-Tv services operated on a national or multinational basis. The world's largest, sky, has developed a presence in a handful of European territories and claims around 17 million customers. Broadcasting was a national industry that progressively internationalized, streaming is a global business that is progressively localizing. No platform is born global and even Netflix waited several years before crossing borders(Randolph,2019).
 
-
-REFERENCES: 
-https://www.tedial.com/how-is-the-industry-transforming-from-a-business-perspective/
-
-https://adeia.com/blog/industry-perspective-streaming-technology-evolution?154e7681_page=8
-
-https://www.starburstmagazine.com/features/the-rise-of-streaming-services-how-they-are-changing-the-film-industry/

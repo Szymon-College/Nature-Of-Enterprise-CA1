@@ -7,10 +7,10 @@
 
 ## Job Losses and the Decline of Physical Stores  
 **Traditional shops such as Xtra-Vision and Blockbuster were once the most popular places to go whenever you wanted to rent a movie  to watch with your family or even rent a 
-video game, however they have struggled the most unfortunately as most customers moved toward the digital entertainment route due to convenience and lower upfront cost and then adding a low monthly payment without having to leave their house.**
-**In January 2016, Extra-Vision entered liquidation while also putting approximately 583 jobs at risk(O'Faolain, 2016).**
+video game, however they have struggled the most  as most customers moved toward the digital entertainment route due to convenience and lower upfront cost and then adding a low monthly payment without having to leave their house.**
+**In January 2016, Extra-Vision entered liquidation, this has put approximately 583 jobs at risk(O'Faolain, 2016).**
 **This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)**
-**This has also happened to major Gaming retailers as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
+**This has also happened to major Gaming retailers such as GameStop as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)**
 
 <img width="800" height="700" alt="    blockbuster-closing" src="https://github.com/user-attachments/assets/aa133314-1737-497f-88fb-39589a7da0d4" />
 
@@ -51,9 +51,9 @@ Photo: u/Usual-Star-8379 (2024).</sub>
 
 
 # Digital Exclusion #
-**Streaming also creates difficulties for people that don't have a reliable internet connection and according to Central Statistics Office(2025),**
+**Streaming also creates difficulties for people that don't have a reliable internet connection and according to the Central Statistics Office(2025),**
 approximately 95% of Irish households had internet access in 2025 which means that a very small proportion of households had no internet access.**
-**Because most physical rental shops have now become less common, people who cannot access streaming services may have less entertainment options,
+**Because most physical rental shops have now become less common, people who can't access streaming services may have fewer entertainment options,
 especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging. This also means that just having internet access doesn't mean that everyone can afford streaming services or have a fast enough connection to be able to stream their movies without any interruptions.**
 **Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
 access movies, games and music.**
@@ -65,7 +65,9 @@ access movies, games and music.**
 
 
 # Privacy and Personal Data #
-**Privacy is another issue that is very importan.The platforms that we use to stream(Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored .These watch recommendations can be useful, this shows how much personal information these companies can collect from their customers.Most users might not immediately realise how much of their information is stored and/or used.This is a huge privacy concern especially since most people agree to their terms and conditions without reading them properly and failing to fully understand them. Organisations must be clear  and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
+**Privacy is another issue that is very important.The platforms that we use to stream (Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored.**
+These watch recommendations can be useful, this shows how much personal information these companies can collect from their customers.Most users might not immediately realise how much of their information is stored and/or used.**
+This is a huge privacy concern especially since most people agree to their terms and conditions without reading them properly and failing to fully understand them. Organisations must be clear  and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.**
 
 <img width="600" height="300" alt="servers" src="https://github.com/user-attachments/assets/8e09b44a-3873-46a6-852e-fc580ad865f7" />
 
@@ -73,15 +75,19 @@ access movies, games and music.**
 
 
 # Fair Payment for Artists and Creators #
-**Since streaming music now is more popular than ever, thanks to streaming services like Spotify, Apple Music and Sound Cloud etc, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed. According to a study from the UK's Competition and Markets Authority(2022) it was found that more than 60% of music streams were associated by the top 0.4% of artists. This shows that based on their study that in 2020 that a very small number  of artists accounted for more than 60% of music streams, this also shows how a very small percentage of artists attract most of the listeners, but thousands of smaller artists struggle to get the same attention and recognition that they deserve for their work. The report also showed that the potential earnings for an artist could be around £12,000 from 12 million streams annually, but less than 1% of artists managed to achieve that. Another major issue that the artists don't keep most of the money that they make from their work as most of it goes to the record label and streaming companies. I personally think that the record labels and streaming companies should be more transparent about how they pay
-their artists, that make their platform an everyday use for most people**
-
+**Since streaming music now is more popular than ever, thanks to streaming services like Spotify, Apple Music and Sound Cloud etc, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed.**
+According to a study from the UK's Competition and Markets Authority (2022), the top 0.4% of artists were responsible for more than 60% of music streams in 2020. This is an example of smaller artists can struggle to attract the same
+number of listeners.**
+The report also showed an estimate that an artist could potentially earn around £12,000 from 12 million UK streams annually, but less than 1% have managed to achieve that amount of streams.**
+Artists also don't receive all the money they make from their streams as most of it goes to the record label and others that own the rights to their music.**
 <img width="1920" height="1280" alt="fair payments artists" src="https://github.com/user-attachments/assets/d22ed101-2ed6-4522-a73b-07ba3588f697" />
 
 <sub>Figure 6: Musicians protesting for fairer streaming payments outside Spotify in San Francisco. Photo: Nastia Voynovskaya (2021), KQED.</sub>
 
 # Overall Reflection and Improvements #
-**Overall, streaming has brought a lot of benefits, convenience and huge selection of entertainment options that also makes content easier to access, however with the decline of physical media this has affected workers, consumers and creators. In my opinion streaming itself isn't unethical, but these big streaming companies such as Netflix, Disney Plus, Spotify and Apple Music etc should take way more responsibility for the consequences of technological change. They could start by providing better support for their employees, protecting customer data, improving digital consumer rights and making their payments for artists way more transparent. This would make the entertainment industry more fair. Finding a balance between technological progress and protecting the people affected by it is the main challenge unfortunately.**
+**Streaming has brought a lot of benefits, convenience and a huge selection of entertainment options that also makes content easier to access, however with the decline of physical media, these changes have affected workers, consumers and creators. 
+In my opinion streaming itself is not  unethical, but large companies such as Netflix, Disney Plus, Spotify and Apple Music should take way more responsibility for the consequences of technological change. 
+They could provide better support for  employees, protect customer data, improve digital consumer rights and make artist payments more transparent.**
 
 
 
