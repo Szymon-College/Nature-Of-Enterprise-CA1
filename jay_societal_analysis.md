@@ -1,19 +1,3 @@
-- Jayrald - A00079303
-
-- Started at : 12/10/2026
-
-- Viewpoint analysis - "Transforming of Streaming Services (Physical Media to Netflix/Spotify)
-
-- Societal Analysis - "Detailed examination through chosen lens"
-
--  Due Date = Friday, 27th November, 5pm
-
-- Must have 3 minute video in relation to my research: Clear presentation, slides and voice
-
-- Must be in professional slides
-
-- Must only use "Spellchecker", Grammarly for rewriting is prohibited.
-
 # Keypoints for Societal Analysis:
 
 1. "Consumer behaviour"
@@ -91,16 +75,3 @@ Rukavitsin, E. (2023) _Tired of studying_. [Photograph]. Available at: https://c
 Shore, M. (2022) _How to turn off subtitles on Netflix and turn them on._ What to Watch. Available at: https://www.whattowatch.com/how-to/how-to-turn-off-subtitles-on-netflix-and-turn-them-on (Accessed: 7 November 2026).
 
 Korea Tourism Organization (2021) _New Yorkers gather in green tracksuits to play real-life "Squid Game"._ [Photograph]. Published in _Pulse_, 28 October. Available at: https://pulse.mk.co.kr/news/english/10077072 (Accessed: 7 November 2026).
-
-
-
-
-
-(Jay's Individual Work)
-# Peer Review: 
-- 300 Words (individual Work)
-- 
-
-
-
-
