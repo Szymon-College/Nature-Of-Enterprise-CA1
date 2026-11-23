@@ -39,7 +39,18 @@ CDs
 The play station 1 was the first huge console to use discs with it being able to hold more information and real time cutscenes, This has been the physical media used for games with modern consoles still using it
 
 The slow fall- 2000's to now
-The seventh generation of consoles  added a feature, a shop built into the console were users could buy games on the console it self , this removed the middle man which are stores selling games and made consoles more in line with computers. The few generations of consoles saw more and more consoles without any physical media as disc where drives for the disc were not included as the console fully relied on the store 
+The seventh generation of consoles  added a feature, a shop built into the console were users could buy games on the console it self , this removed the middle man which are stores selling games and made consoles more in line with computers. The few generations of consoles saw more and more consoles without any physical media as disc where drives for the disc were not included as the console fully relied on the store for it's game. 
+
+Subscription for games became more common as major gaming companies began selling monthly Subscription to access large collection of games.
+
+-Today
+On July first of 2026 Sony announced that it will end disc production of their PlayStation consoles. This marked the end of psychical media for gaming as PlayStation held a majority share of the gaming market and them shutting it down could mean others would follow shoot 
+
+
+
+
+-sources
+https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
 
 
 
