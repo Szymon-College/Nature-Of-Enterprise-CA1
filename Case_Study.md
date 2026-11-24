@@ -1,4 +1,17 @@
+# Transformation of Streaming Services
+## By 
+* Szymon Podraza-Ostrega A00064154
+* Jayrald Opingo A00079303
+* Ben Fitzpatrick A00068963
+* Krystian Nowocien A00066175
+* Leonard Mihailescu B00145799
 
+### Introduction
+This case study examines the change in how people consume media and changing their habits and how businesses deliver and produce media through the transformation of streaming services. Streaming any form of media from a server to a user's device requires the internet. The data of the media gets sent to a user's device by a server through the internet where the user can consume their media without the need of downloading the media file (Pollete, 2024). Streaming is often associated with videos, but it can be done with any form of media such as music and games as well.
+
+This sudden shift of media consumption does not just affect consumers and businesses that provide streaming services, but other related businesses such as the extinct businesses that rented media to consumers are also affected. The world has been becoming more interconnected as ever before and this includes all things streaming related. People can watch movies and shows produced from one country despite living in a different country where they do not speak the language the media was produced in (Gul, 2023). One widely known example of this was Squid Game which was a show that was produced in South Korea and gained popularity in 2021 (About Netflix, 2025).
+
+This topic will be looked at through two different viewpoints, societal and business. People are willing to trade ownership of their media for comfort and convenience for an ongoing fee. With the newer generation having better access and understanding of streaming, they are beginning to form unhealthy consumption habits around streaming services. Some businesses have died and some have flourished as streaming media has become more mainstream. Video rental businesses such as Blockbuster filed for bankruptcy in 2010 (Bitter and Olito, 2023) whilst newer streaming services such as Disney+ prospered as they gained a steady stream of income in a highly scalable environment. These perspectives will analyse how the media and related industries and the everyday lives of people have been affected on a global scale.
 ### References
 About Netflix. (2025). 'Squid game' by the numbers: How player 456 took over the world - about Netflix. [online] Available at: https://about.netflix.com/en/news/squid-game-by-the-numbers-how-player-456-took-over-the-world [Accessed 7 Nov. 2026].
 
