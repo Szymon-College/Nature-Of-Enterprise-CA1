@@ -27,8 +27,6 @@ After: <img width="330" height="247" alt="330px-Home-AppleTV-3RevA" src="https:/
 
 - As entertainment continues to be easily accessible and readily available from smart devices, young people would willingly spend more time staying up late watching shows and it would mean less hours of sleep which it could affect how well they do in education.
 
-Encourage cultural dive
-
 <img width="330" height="220" alt="330px-Tired_of_studying" src="https://github.com/user-attachments/assets/f85f0eba-ad9a-4b37-8505-4a7e6dced4ea" />
 
 **Studying with sleep depreviation** (Rukavitsin, 2023)
