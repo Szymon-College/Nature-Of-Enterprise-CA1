@@ -11,6 +11,31 @@ This case study examines the change in how people consume media and changing the
 This sudden shift of media consumption does not just affect consumers and businesses that provide streaming services, but other related businesses such as the extinct businesses that rented media to consumers are also affected. The world has been becoming more interconnected as ever before and this includes all things streaming related. People can watch movies and shows produced from one country despite living in a different country where they do not speak the language the media was produced in (Gul, 2023). One widely known example of this was Squid Game which was a show that was produced in South Korea and gained popularity in 2021 (About Netflix, 2025).
 
 This topic will be looked at through two different viewpoints, societal and business. People are willing to trade ownership of their media for comfort and convenience for an ongoing fee. With the newer generation having better access and understanding of streaming, they are beginning to form unhealthy consumption habits around streaming services. Some businesses have died and some have flourished as streaming media has become more mainstream. Video rental businesses such as Blockbuster filed for bankruptcy in 2010 (Bitter and Olito, 2023) whilst newer streaming services such as Disney+ prospered as they gained a steady stream of income in a highly scalable environment. These perspectives will analyse how the media and related industries and the everyday lives of people have been affected on a global scale.
+
+### Societal Analysis
+#### Consumer behaviour
+Before the era of cloud streaming platforms, the option to buying films and music were through stores such as Xtra-vision, HMV and Golden Discs where they sold DVDs, VHS tapes and CDs. As streaming platforms had became known, there was less of a need for consumers to go to these stores as films and music could now be accessed online. It made an impact on DVD sales and it began to plummet as data shows it dropped by "86 percent" and platforms like Netflix and HBO showed a sale increase, "1231 percent", which is "$12.9 billion" in the US market (Whitten, 2019).
+
+Music was subjected similarly as films as Spotify was introduced in 2008 to prevent music piracy as it holds a large collection of music and it had "on-demand playback" and "offline listening" features which made it more consumer friendly. In 2010, there were "10 million" users (Kuyucu, 2026, p. 322) so CD sales dropped by "80 percent" from "450 million to 89 million" (Knopper, 2018) which shows more consumers opted in for music streaming instead of buying CDs.
+
+It shows that consumers are willingly paying monthly subscriptions to gain instant media content which shows there would be no need to buy individual films or albums and with devices such as smartphones, tablets and smartwatches it made listening to music and watching films on the go much easier.
+
+#### Mental wellbeing in young people
+From the 2000s and the previous decade, young people would watch DVDs and also television shows where they had to wait to come on and as Netflix, Amazon Prime or other streaming platforms became known, young people began to indulge watching shows whenever they wanted. This brought issues for the younger generations as they have the opportunity to watch the whole series in one sitting. Venkatesh, Sripriya and Rajkamal (2026) explains the younger generations would indulge in "binge-watch" and with this, it resulted to "cognitive overload" which led them to poor "learning" and "academic" standards (Venkatesh, Sripriya and Rajkamal, 2026). It shows that "62 percent" prefers to be using their smartphones, tablets and TVs than sleeping and it highlights that "30 percent" resulted in poor sleeping patterns as they continue to indulge late night shows (Tucker, 2025).
+
+As entertainment continues to be easily accessible and readily available from smart devices, young people would willingly spend more time staying up late watching shows and it would mean less hours of sleep which it could affect how well they do in education.
+
+
+#### Encourage cultural diversity
+In the booming age of physical media, it was difficult to come across films and shows from other countries and as streaming platforms such as Netflix brought international entertainment to a wider audience, it would recommend shows to viewers. This gave users more of a chance to come across shows from different countries as Netflix had a large collection of "international content" in which Guha (2023, p. 5) states it is "a bridge" between communities.
+
+One of the features that stood out from Netflix was the option to change the language of a show or series and it allowed watching international shows much easier as viewers were not required to learn and understand the language of the country. An example would be a Danish series, The Rain "85 percent" where American Netflix viewers preferred watching it with English dubbing and the German series, Dark were "78 percent" (Salsabila, 2021, p. 20).
+
+The rise of international shows saw more people taking an interest in other cultures with one of the biggest cases being the Korean series Squid Game where people in New York began playing traditional Korean games from the show. This shows that streaming platforms brought a wider audience and also gave people the chance to learn and take part in the culture of other countries.
+
+
+### Ethical Reflection
+
 ### References
 About Netflix. (2025). 'Squid game' by the numbers: How player 456 took over the world - about Netflix. [online] Available at: https://about.netflix.com/en/news/squid-game-by-the-numbers-how-player-456-took-over-the-world [Accessed 7 Nov. 2026].
 
