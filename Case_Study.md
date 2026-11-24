@@ -1,4 +1,4 @@
-# Transformation of Streaming Services
+<img width="600" height="800" alt="698470022-7bf1d218-a6d6-4830-bb6e-5b2f83cfe22d" src="https://github.com/user-attachments/assets/fafe134f-c6e8-4b58-bb99-1d3ba9ba2314" /># Transformation of Streaming Services
 * Szymon Podraza-Ostrega A00064154
 * Jayrald Opingo A00079303
 * Ben Fitzpatrick A00068963
@@ -24,11 +24,18 @@ Before: <img width="330" height="220" alt="698448326-6483dc17-7d56-4fab-888b-c45
 
 Customers browsing physical media at Sonic Boom (Chicken4War, 2026)
 
+After: <img width="330" height="247" alt="698451582-bcdc9c81-4dec-4e88-867e-347e477979fb" src="https://github.com/user-attachments/assets/fd2ebb07-73de-4a49-9852-7f75ac616341" />
+
+Media readily available in Streaming Platforms such as Youtube and Netflix (Wadzifox, 2016)
+
 #### Mental wellbeing in young people
 From the 2000s and the previous decade, young people would watch DVDs and also television shows where they had to wait to come on and as Netflix, Amazon Prime or other streaming platforms became known, young people began to indulge watching shows whenever they wanted. This brought issues for the younger generations as they have the opportunity to watch the whole series in one sitting. Venkatesh, Sripriya and Rajkamal (2026) explains the younger generations would indulge in "binge-watch" and with this, it resulted to "cognitive overload" which led them to poor "learning" and "academic" standards (Venkatesh, Sripriya and Rajkamal, 2026). It shows that "62 percent" prefers to be using their smartphones, tablets and TVs than sleeping and it highlights that "30 percent" resulted in poor sleeping patterns as they continue to indulge late night shows (Tucker, 2025).
 
 As entertainment continues to be easily accessible and readily available from smart devices, young people would willingly spend more time staying up late watching shows and it would mean less hours of sleep which it could affect how well they do in education.
 
+<img width="330" height="220" alt="698457037-f85f0eba-ad9a-4b37-8505-4a7e6dced4ea" src="https://github.com/user-attachments/assets/bce4f263-0bbc-469d-bbb1-81b8571e5894" />
+
+Studying with sleep depreviation (Rukavitsin, 2023)
 
 #### Encourage cultural diversity
 In the booming age of physical media, it was difficult to come across films and shows from other countries and as streaming platforms such as Netflix brought international entertainment to a wider audience, it would recommend shows to viewers. This gave users more of a chance to come across shows from different countries as Netflix had a large collection of "international content" in which Guha (2023, p. 5) states it is "a bridge" between communities.
@@ -37,6 +44,13 @@ One of the features that stood out from Netflix was the option to change the lan
 
 The rise of international shows saw more people taking an interest in other cultures with one of the biggest cases being the Korean series Squid Game where people in New York began playing traditional Korean games from the show. This shows that streaming platforms brought a wider audience and also gave people the chance to learn and take part in the culture of other countries.
 
+<img width="1200" height="559" alt="698462782-789d878c-5245-4cc7-b924-3a4d5369baa3" src="https://github.com/user-attachments/assets/35e0c30b-d191-405e-8ddf-4c044f0e5cd0" />
+
+Language options in Netflix (Netflix, reproduced in Shore, 2022)
+
+<img width="600" height="800" alt="698470022-7bf1d218-a6d6-4830-bb6e-5b2f83cfe22d" src="https://github.com/user-attachments/assets/9bf0cf47-3eee-4463-a2d7-ac2310245f3d" />
+
+Engaging in traditional Korean games inspired from 'Netflix - Squid Games' in New York (Korea Tourism Organization, 2021)
 
 ### Ethical Reflection
 
