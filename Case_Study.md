@@ -1,11 +1,10 @@
 # Transformation of Streaming Services
-## By 
 * Szymon Podraza-Ostrega A00064154
 * Jayrald Opingo A00079303
 * Ben Fitzpatrick A00068963
 * Krystian Nowocien A00066175
 * Leonard Mihailescu B00145799
-
+---
 ### Introduction
 This case study examines the change in how people consume media and changing their habits and how businesses deliver and produce media through the transformation of streaming services. Streaming any form of media from a server to a user's device requires the internet. The data of the media gets sent to a user's device by a server through the internet where the user can consume their media without the need of downloading the media file (Pollete, 2024). Streaming is often associated with videos, but it can be done with any form of media such as music and games as well.
 
