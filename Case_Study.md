@@ -19,6 +19,9 @@ Before the era of cloud streaming platforms, the option to buying films and musi
 Music was subjected similarly as films as Spotify was introduced in 2008 to prevent music piracy as it holds a large collection of music and it had "on-demand playback" and "offline listening" features which made it more consumer friendly. In 2010, there were "10 million" users (Kuyucu, 2026, p. 322) so CD sales dropped by "80 percent" from "450 million to 89 million" (Knopper, 2018) which shows more consumers opted in for music streaming instead of buying CDs.
 
 It shows that consumers are willingly paying monthly subscriptions to gain instant media content which shows there would be no need to buy individual films or albums and with devices such as smartphones, tablets and smartwatches it made listening to music and watching films on the go much easier.
+Before: 330px-Sonic_Boom_record_store_interior,_Toronto_2026
+
+Customers browsing physical media at Sonic Boom (Chicken4War, 2026)
 
 #### Mental wellbeing in young people
 From the 2000s and the previous decade, young people would watch DVDs and also television shows where they had to wait to come on and as Netflix, Amazon Prime or other streaming platforms became known, young people began to indulge watching shows whenever they wanted. This brought issues for the younger generations as they have the opportunity to watch the whole series in one sitting. Venkatesh, Sripriya and Rajkamal (2026) explains the younger generations would indulge in "binge-watch" and with this, it resulted to "cognitive overload" which led them to poor "learning" and "academic" standards (Venkatesh, Sripriya and Rajkamal, 2026). It shows that "62 percent" prefers to be using their smartphones, tablets and TVs than sleeping and it highlights that "30 percent" resulted in poor sleeping patterns as they continue to indulge late night shows (Tucker, 2025).
