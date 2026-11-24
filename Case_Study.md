@@ -1,4 +1,4 @@
-<img width="600" height="800" alt="698470022-7bf1d218-a6d6-4830-bb6e-5b2f83cfe22d" src="https://github.com/user-attachments/assets/fafe134f-c6e8-4b58-bb99-1d3ba9ba2314" /># Transformation of Streaming Services
+# Transformation of Streaming Services
 * Szymon Podraza-Ostrega A00064154
 * Jayrald Opingo A00079303
 * Ben Fitzpatrick A00068963
