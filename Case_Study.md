@@ -19,7 +19,8 @@ Before the era of cloud streaming platforms, the option to buying films and musi
 Music was subjected similarly as films as Spotify was introduced in 2008 to prevent music piracy as it holds a large collection of music and it had "on-demand playback" and "offline listening" features which made it more consumer friendly. In 2010, there were "10 million" users (Kuyucu, 2026, p. 322) so CD sales dropped by "80 percent" from "450 million to 89 million" (Knopper, 2018) which shows more consumers opted in for music streaming instead of buying CDs.
 
 It shows that consumers are willingly paying monthly subscriptions to gain instant media content which shows there would be no need to buy individual films or albums and with devices such as smartphones, tablets and smartwatches it made listening to music and watching films on the go much easier.
-Before: 330px-Sonic_Boom_record_store_interior,_Toronto_2026
+
+Before: <img width="330" height="220" alt="698448326-6483dc17-7d56-4fab-888b-c45271a5dbe5" src="https://github.com/user-attachments/assets/d86fbd44-bada-41fb-8383-f8afe556cabc" />
 
 Customers browsing physical media at Sonic Boom (Chicken4War, 2026)
 
