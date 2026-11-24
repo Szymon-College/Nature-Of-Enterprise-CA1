@@ -53,6 +53,85 @@ Language options in Netflix (Netflix, reproduced in Shore, 2022)
 Engaging in traditional Korean games inspired from 'Netflix - Squid Games' in New York (Korea Tourism Organization, 2021)
 
 ### Ethical Reflection
+The growth of streaming services such Netflix, Spotify and digital gaming platforms has completely changed how people access entertainment.
+These days people can watch movies, download video games and listen to music without the need to visit a physical store.
+Although streaming is convenient and gives customers more choice, it has also created some ethical problems.
+These include the loss of jobs, digital ownership(which means people no longer own the content that they have paid for), privacy and the way some artists are paid for their work.
+
+#### Job Losses and the Decline of Physical Stores  
+Traditional shops such as Xtra-Vision and Blockbuster were once the most popular places to go whenever you wanted to rent a movie  to watch with your family or even rent a 
+video game, however they have struggled the most  as most customers moved toward the digital entertainment route due to convenience and lower upfront cost and then adding a low monthly payment without having to leave their house.
+In January 2016, Extra-Vision entered liquidation, this has put approximately 583 jobs at risk(O'Faolain, 2016).
+This also happened to Blockbuster as it also faced serious financial difficulties, although they had problems with increasing competition and a large amount of debt rather than streaming alone(Blockbuster Inc.,2011)
+This has also happened to major Gaming retailers such as GameStop as they have had to compete with digital game distribution while still actively selling physical copies(GameStop Corp.,2025)
+
+<img width="800" height="700" alt="    blockbuster-closing" src="https://github.com/user-attachments/assets/aa133314-1737-497f-88fb-39589a7da0d4" />
+
+<br>
+<sub>Figure 1: Blockbuster store closing in Michigan, 2013. Photo: Dwight Burdette (2013), Wikimedia Commons, CC BY 3.0.</sub>
+
+#### Digital Ownership and Consumer Rights 
+Another concern is that customers no longer physically own much of the content that they have paid to access.
+For example, purchasing a DVD means that the customer only pays once and kept it for life, could lend it to a family member or friend and watch it without a subscription.
+However, Netflix subscribers can only receive access to content under the service's terms which means that they have to pay in order to access.
+Netflix also states that that titles may become unavailable as its catalogue changes over time(Netflix,2026).
+Another ethical concern is digital ownership when consumers purchase video games, for example when buying a game via the Playstation Store, they're actually buying a license in order to play the game instead of owning the game outright. According to Playstation's Software Usage Terms(Playstation, n.d.), customers are granted permission to use the software under certain conditions, but they do not own the software itself. This means that the games that we buy digitally are tied to our specific account and they cannot be sold or lended to someone else like they used to be with physical discs. The physical discs also contained licensed software but the biggest difference is that the customer still owned the content after it was purchased. This also includes loss of games and content if the account gets suspended or closed. ( Sony Interactive Entertainment,2026)
+This raises questions about how much control consumers actually have over their entertainment.
+Streaming companies should be able to clearly explain what their customers are paying for and including any restrictions on downloading and accessing content.
+The European Commission(n,d)also outlines consumer protections for digital services, showing why clear digital rights are important.
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/faa51306-14a7-4c31-abd3-fd3f80026ccd" width="330">
+
+<br>
+<p><sub> Figure 2: Netflix streaming on a television. Photo: Ajay Suresh (2019), Wikimedia Commons, CC BY 2.0.</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/514c6c2e-9fc4-49de-9871-c859f7c58bef" width="230">
+  <br>
+</sub>Figure 3: GTA V PS3 Steelbook (2013) .
+Photo: u/Usual-Star-8379 (2024).</sub>
+  </td>
+</tr>
+</table>
+
+#### Digital Exclusion 
+Streaming also creates difficulties for people that don't have a reliable internet connection and according to the Central Statistics Office(2025),
+approximately 95% of Irish households had internet access in 2025 which means that a very small proportion of households had no internet access.
+Because most physical rental shops have now become less common, people who can't access streaming services may have fewer entertainment options,
+especially the elderly or those who are unfamiliar with digital technology and may find the transition quite challenging. This also means that just having internet access doesn't mean that everyone can afford streaming services or have a fast enough connection to be able to stream their movies without any interruptions.
+Some improvements that could be done are to offer more affordable services, have support for offline downloads and preserve backup access routes to
+access movies, games and music.
+I think that it's important that people shouldn't be left behind just because technology is changing and can become unaffordable due to rising costs of living and monthly subscriptions becoming more expensive, some people may struggle to be able to afford these services, especially when they need several subscriptions to access their favorite movies, tv shows and music.
+
+<img width="600" height="400" alt="library" src="https://github.com/user-attachments/assets/27943bb3-de2d-4879-a14d-44aabe54a2c9" />
+
+<sub>Figure 4: Public internet access at Fort Worth Library, USA. Photograph by Informationwave (2009), Wikimedia Commons, CC BY 3.0.</sub>
+
+
+#### Privacy and Personal Data 
+Privacy is another issue that is very important.The platforms that we use to stream (Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored.**
+These watch recommendations can be useful, this shows how much personal information these companies can collect from their customers.Most users might not immediately realise how much of their information is stored and/or used.
+This is a huge privacy concern especially since most people agree to their terms and conditions without reading them properly and failing to fully understand them. Organisations must be clear  and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.
+
+<img width="600" height="300" alt="servers" src="https://github.com/user-attachments/assets/8e09b44a-3873-46a6-852e-fc580ad865f7" />
+
+<sub>Figure 5: Server infrastructure used for digital data processing. Photo: Victor Grigas (2015), Wikimedia Commons, CC BY-SA 3.0.</sub>
+
+#### Fair Payment for Artists and Creators 
+Since streaming music now is more popular than ever, thanks to streaming services like Spotify, Apple Music and Sound Cloud etc, it has made it easier for artists to reach a larger audience of listeners worldwide, but this has some concerns over how the streaming revenues are distributed.
+According to a study from the UK's Competition and Markets Authority (2022), the top 0.4% of artists were responsible for more than 60% of music streams in 2020. This is an example of smaller artists can struggle to attract the same number of listeners.
+The report also showed an estimate that an artist could potentially earn around £12,000 from 12 million UK streams annually, but less than 1% have managed to achieve that amount of streams.
+Artists also don't receive all the money they make from their streams as most of it goes to the record label and others that own the rights to their music.
+<img width="1920" height="1280" alt="fair payments artists" src="https://github.com/user-attachments/assets/d22ed101-2ed6-4522-a73b-07ba3588f697" />
+
+<sub>Figure 6: Musicians protesting for fairer streaming payments outside Spotify in San Francisco. Photo: Nastia Voynovskaya (2021), KQED.</sub>
+
+#### Overall Reflection and Improvements 
+Streaming has brought a lot of benefits, convenience and a huge selection of entertainment options that also makes content easier to access, however with the decline of physical media, these changes have affected workers, consumers and creators. 
+In my opinion streaming itself is not  unethical, but large companies such as Netflix, Disney Plus, Spotify and Apple Music should take way more responsibility for the consequences of technological change. 
+They could provide better support for  employees, protect customer data, improve digital consumer rights and make artist payments more transparent.
 
 ### References
 About Netflix. (2025). 'Squid game' by the numbers: How player 456 took over the world - about Netflix. [online] Available at: https://about.netflix.com/en/news/squid-game-by-the-numbers-how-player-456-took-over-the-world [Accessed 7 Nov. 2026].
