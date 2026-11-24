@@ -6,11 +6,11 @@
 
 # Consumer behaviour
 
-- In the early 2000's the main way of buying films and music were through stores such as Xtra-vision, HMV and Golden Discs where they sold DVDs, VHS tapes and CDs. With the rise of streaming platforms there was less of a need for consumers to go to these stores as films could now be watched through the online space. DVD sales dropped by "more than 86 percent" over 13 years while platforms such as Netflix and HBO saw an increase of "1231 percent to $12.9 billion" in the US market (Whitten, 2019).
+- Before the era of cloud streaming platforms, the option to buying films and music were through stores such as Xtra-vision, HMV and Golden Discs where they sold DVDs, VHS tapes and CDs. As streaming platforms had became known, there was less of a need for consumers to go to these stores as films and music could now be accessed online. It made an impact on DVD sales and it began to plummet as data shows it dropped by "86 percent" and platforms like Netflix and HBO showed a sale increase, "1231 percent", which is "$12.9 billion" in the US market (Whitten, 2019). 
   
-- Music went down the same path as films with Spotify being brought out in 2008 to combat piracy, it had a large collection of music and had features such as "on-demand playback" and "offline listening" which made it more consumer friendly and by 2010 Spotify had "10 million" users (Kuyucu, 2026, p. 322). CD sales dropped by "80 percent" from "450 million to 89 million" (Knopper, 2018) as more users opted in for music streaming instead of buying CDs.
+- Music was subjected similarly as films as Spotify was introduced in 2008 to prevent music piracy as it holds a large collection of music and it had "on-demand playback" and "offline listening" features which made it more consumer friendly. In 2010, there were "10 million" users (Kuyucu, 2026, p. 322) so CD sales dropped by "80 percent" from "450 million to 89 million" (Knopper, 2018) which shows more consumers opted in for music streaming instead of buying CDs.
 
-- The difference between the two was that consumers no longer owned the media but instead paid a monthly subscription to have access to it. This removed the need to buy individual films or albums and with devices such as smartphones, tablets and smartwatches it made listening to music and watching films on the go much easier.
+- It shows that consumers are willingly paying monthly subscriptions to gain instant media content which shows there would be no need to buy individual films or albums and with devices such as smartphones, tablets and smartwatches it made listening to music and watching films on the go much easier.
 
 
 Before: <img width="330" height="220" alt="330px-Sonic_Boom_record_store_interior,_Toronto_2026" src="https://github.com/user-attachments/assets/6483dc17-7d56-4fab-888b-c45271a5dbe5" /> 
@@ -23,11 +23,9 @@ After: <img width="330" height="247" alt="330px-Home-AppleTV-3RevA" src="https:/
 
 # Mental wellbeing in young people
 
-- Before streaming young people relied on DVDs and television where they had to wait for a show to come on, with streaming platforms such as Netflix and Amazon Prime users could watch a show whenever they wanted and had the option to watch the whole series in one sitting. This brought issues for the younger generation with Gen Z being more prone to "multitask" and "binge-watch" which could lead to "cognitive overload" and affect their "learning" and "academic performance" (Venkatesh, Sripriya and Rajkamal, 2026).
+- From the 2000s and the previous decade, young people would watch DVDs and also television shows where they had to wait to come on and as Netflix, Amazon Prime or other streaming platforms became known, young people began to indulge watching shows whenever they wanted. This brought issues for the younger generations as they have the opportunity to watch the whole series in one sitting. Venkatesh, Sripriya and Rajkamal (2026) explains the younger generations would indulge in "binge-watch" and with this, it resulted to "cognitive overload" which led them to poor "learning" and "academic" standards (Venkatesh, Sripriya and Rajkamal, 2026). It shows that "62 percent" prefers to be using their smartphones, tablets and TVs than sleeping and it highlights that "30 percent" resulted in poor sleeping patterns as they continue to indulge late night shows (Tucker, 2025).
 
-- Another issue with streaming was that users could watch shows at any time of the day which led to users staying up late watching films and shows. "62 percent" of Gen Z would choose screen time over sleep and "29 percent" would watch shows late at night a few times a week, with "30 percent" of Americans having poor sleeping patterns due to not being able to stop watching films or videos (Tucker, 2025).
-
-- With how easy it is to access entertainment now young people could spend more time indoors watching shows instead of going out with friends. This could also be an issue for young people in education as staying up late watching shows would mean less hours of sleep which could affect how well they do in school or college.
+- As entertainment continues to be easily accessible and readily available from smart devices, young people would willingly spend more time staying up late watching shows and it would mean less hours of sleep which it could affect how well they do in education.
 
 Encourage cultural dive
 
@@ -37,11 +35,11 @@ Encourage cultural dive
 
 # Encourage cultural diversity
 
-- With physical media it was harder to come across films and shows from other countries but streaming platforms such as Netflix brought international entertainment to a wider audience. Netflix had a feature where it would recommend shows to its users and this gave users more of a chance to come across shows from different countries. Netflix had a large collection of "international content" which formed "a bridge" between communities (Guha, 2023, p. 5).
+- In the booming age of physical media, it was difficult to come across films and shows from other countries and as streaming platforms such as Netflix brought international entertainment to a wider audience, it would recommend shows to viewers. This gave users more of a chance to come across shows from different countries as Netflix had a large collection of "international content" in which  Guha (2023, p. 5) states it is "a bridge" between communities.
 
-- One of the stand out features of streaming platforms was the option to change the language of a show, this made watching international shows much easier as users did not have to understand the language of the country the show was from. For the Danish series The Rain "85 percent" of American Netflix viewers preferred watching it with English dubbing and for the German series Dark it was "78 percent" (Salsabila, 2021, p. 20).
+- One of the features that stood out from Netflix was the option to change the language of a show or series and it allowed watching international shows much easier as viewers were not required to learn and understand the language of the country. An example would be a Danish series, The Rain "85 percent" where American Netflix viewers preferred watching it with English dubbing and the German series, Dark were "78 percent" (Salsabila, 2021, p. 20).
 
-- The rise of international shows saw more people taking an interest in other cultures with one of the biggest cases being the Korean series Squid Game where people in New York began playing traditional Korean games from the show. This showed that streaming platforms not only brought entertainment from other countries to a wider audience but also gave people the chance to learn and take part in the culture of other countries.
+- The rise of international shows saw more people taking an interest in other cultures with one of the biggest cases being the Korean series Squid Game where people in New York began playing traditional Korean games from the show. This shows that streaming platforms brought a wider audience and also gave people the chance to learn and take part in the culture of other countries.
 
 <img width="1200" height="559" alt="wJnFrpHsJTh3UtYHuphuAa-1200-80 jpg" src="https://github.com/user-attachments/assets/789d878c-5245-4cc7-b924-3a4d5369baa3" />
 
