@@ -124,6 +124,7 @@ Since streaming music now is more popular than ever, thanks to streaming service
 According to a study from the UK's Competition and Markets Authority (2022), the top 0.4% of artists were responsible for more than 60% of music streams in 2020. This is an example of smaller artists can struggle to attract the same number of listeners.
 The report also showed an estimate that an artist could potentially earn around £12,000 from 12 million UK streams annually, but less than 1% have managed to achieve that amount of streams.
 Artists also don't receive all the money they make from their streams as most of it goes to the record label and others that own the rights to their music.
+
 <img width="1920" height="1280" alt="fair payments artists" src="https://github.com/user-attachments/assets/d22ed101-2ed6-4522-a73b-07ba3588f697" />
 
 <sub>Figure 6: Musicians protesting for fairer streaming payments outside Spotify in San Francisco. Photo: Nastia Voynovskaya (2021), KQED.</sub>
