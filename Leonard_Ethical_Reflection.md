@@ -21,7 +21,7 @@ video game, however they have struggled the most  as most customers moved toward
 
 
 # Digital Ownership and Consumer Rights #
-**Another concern is that customers no longer physically own much of the content that they paid to access.**
+**Another concern is that customers no longer physically own much of the content that they have paid to access.**
 **For example, purchasing a DVD means that the customer only pays once and kept it for life, could lend it to a family member or friend and watch it without a subscription.**
 **However, Netflix subscribers can only receive access to content under the service's terms which means that they have to pay in order to access.**
 **Netflix also states that that titles may become unavailable as its catalogue changes over time(Netflix,2026).**
