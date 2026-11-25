@@ -52,6 +52,18 @@ Language options in Netflix (Netflix, reproduced in Shore, 2022)
 
 Engaging in traditional Korean games inspired from 'Netflix - Squid Games' in New York (Korea Tourism Organization, 2021)
 
+### Business Analysis
+
+Streaming video subscription and video advertising revenues have raced higher as a result rising from just over 2 billion $ in combined revenues into 2010 to likey surpassing the 100 billion $ mark by 2026. while some of streaming's headlong growth has come at the expense of traditional multichannel,TV network and film renvenue streams,impacts have varied widely.Media giants including Disney comcast/NBCU, paramount and fox Corp.Have also leaned heavily into the streaming model, aiming to offset declining traditional TV revenues with digital dollars.
+
+The media industry has changed dramatically.First transitioning from analogue to digital, then SD to HD and UHD also from SDI to IP.Add the shift consumer habits to these technological milestones and you have an almost unrecognisable entity compared to the one that existed only 15 to 20 years ago.
+
+The digital economy is a sector in its own right which exists alongside others such as manufacturing and retail (Jordan,2020:p1-17).Some firms are identified as operating within it, such as software developers and video game publishers. Most businesses and sectors, however are not born digital but have embarked on a process of digitization.it is the case of media and entertainment, and the platformization of televison is among the most visible signs of this process. streaming platforms can be defined as those whose business model rests on video monetization.They overlap but are distinct from social media platforms that stream videos but whose business case does not entirely rest on them (Cunningham and Craig,2019).The former includes Facebook watch, Neflix and Youtube, instagram and twitter.
+
+While VOD pre-existed streaming and was developed by cable and sateilite pay-TV services (Rookie,2009):p216-234;(Tydeman and kelm,1986);(Vittet-philippe,1999), platforms have brought changes to the monetization formats.Advertising has always been a key revenue stream for broadcasters,but it is streaming that brought AVOD to the forefront of the TV industry in the 2000s.
+
+Streaming platforms innovate on two other counts. First, they are scaling up these monetization models. Pay-Tv services operated on a national or multinational basis. The world's largest, sky, has developed a presence in a handful of European territories and claims around 17 million customers. Broadcasting was a national industry that progressively internationalized, streaming is a global business that is progressively localizing. No platform is born global and even Netflix waited several years before crossing borders(Randolph,2019).
+
 ### Ethical Reflection
 The growth of streaming services such Netflix, Spotify and digital gaming platforms has completely changed how people access entertainment.
 These days people can watch movies, download video games and listen to music without the need to visit a physical store.
