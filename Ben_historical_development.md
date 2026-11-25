@@ -3,9 +3,7 @@
 
 # Music and Film
 1877-78-Phonograph
-The first case of physical media was in 1877 ,invented by Thomas Edison 
-
-around 1878 when the was invented phonograph cylinder where it was the first case of recording media and reproducing media
+The first case of physical media was the invented phonograph in 1877, invented by Thomas Edison. The device was a cylinder wrapped in tinfoil to record and reproduce sound. 
 
 1889-Vinyl
 This used the same idea of the phonograph cylinder where instead of a waxed/metal cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound. 
@@ -13,7 +11,7 @@ This used the same idea of the phonograph cylinder where instead of a waxed/meta
 1963-Cassette 
 Cassette are magnetic analog tapes , this made physical media more consumer friendly as they were more sturdy and less bulky than Vinyl. Cassettes fit easily into pockets, bags, car stereos making consumers in which the vinyl could not , being more than a fixed location. 
 
-1970-90-The first cases of physical media for film were the Vhs and Betamax , these formats used magnetic tape to record and show film.
+1970-90-The first cases of physical media for film were the VHS and Beta-max , these formats used magnetic tape to record and show film.
 
 1979-Walkman Sony brought out the Walkman which used cassettes to play sounds in a small devices, this was a stand out for psychical media in music as it helped bring Cassettes to more homes across the world and outside the home with it's portability 
 
@@ -31,6 +29,7 @@ Napster was launched as an online music-sharing service, allowing users to share
 2003
 Apple's iTunes Music Store in 2003 came out which was a legal digital store backed by music labels, this made music labels happy as they had a way to earn money over the internet but threatened physical media with it being more convenient than physical.
 
+ Streaming
 2007- Netflix introduced its online streaming service in 2007, allowing subscribers to watch films and television programmes over the internet rather than ordering physical DVDs by post. This helped transform home entertainment by making digital, on-demand viewing increasingly accessible.
 
 In 2008 and onward, Spotify launched with it being rather than downloading individual songs or purchasing physical albums, consumers could access a large online music library and play tracks whenever they wanted. Steaming now was the main income of music and flim with physical audio formats sales falling every year.
