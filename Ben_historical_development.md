@@ -11,9 +11,7 @@ This used the same idea of the phonograph cylinder where instead of a waxed/meta
 1963-Cassette 
 Cassette are magnetic analog tapes , this made physical media more consumer friendly as they were more sturdy and less bulky than Vinyl. Cassettes fit easily into pockets, bags, car stereos making consumers in which the vinyl could not , being more than a fixed location. 
 
-1970's-90's 
-
-The first cases of physical media  for film were Vhs and Betamax , these formats used magnetic tape to record and show film.
+1970-90-The first cases of physical media for film were the Vhs and Betamax , these formats used magnetic tape to record and show film.
 
 1979-Walkman Sony brought out the Walkman which used cassettes to record and play sounds in a small devices, this was a stand out for psychical media in music as it helped bring Cassettes to more homes across the world and outside the home with it's portability 
 
@@ -30,7 +28,9 @@ Napster was launched as an online music-sharing service, allowing users to share
 
 services Apple's iTunes Music Store in 2003 came out which was a legal online music-sharing service backed by music labels, this made music labels happy as they had a way to earn money over the internet but threatened physical media with it being more convenient than physical.
 
-In 2008, Spotify launched with it being rather than downloading individual songs or purchasing physical albums, consumers could access a large online music library and play tracks whenever they wanted. Steaming now was the main income of music with physical audio formats sales falling every year.
+2007- Netflix introduced its online streaming service in 2007, allowing subscribers to watch films and television programmes over the internet rather than ordering physical DVDs by post. This helped transform home entertainment by making digital, on-demand viewing increasingly accessible.
+
+In 2008 and onward, Spotify launched with it being rather than downloading individual songs or purchasing physical albums, consumers could access a large online music library and play tracks whenever they wanted. Steaming now was the main income of music and flim with physical audio formats sales falling every year.
 
 
 
@@ -52,6 +52,8 @@ https://www.pewresearch.org/internet/2009/06/15/the-state-of-music-online-ten-ye
 https://app.crb.gov/document/download/12201
 
 https://newsroom.spotify.com/spotify-timeline/
+
+https://s22.q4cdn.com/959853165/files/doc_downloads/governance_docs/cl71_netflix.pdf
 
 
 
