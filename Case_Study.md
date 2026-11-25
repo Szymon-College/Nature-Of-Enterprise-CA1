@@ -180,7 +180,7 @@ The transformation of streaming services was a sudden and unexpected change in t
 The rise of streaming services brought a lot of changes, one of the most important aspects are consumer rights and their privacy. People who pay for streaming services put themselves into some risk by giving the business who provides the streaming service their personal data and are forced to trust them they will not use them for any malicious intent. Despite streaming services being sudden, the business should show some responsibility such as transparent use of consumer's data, providing affordable and accessible services for everyone and paying the producers and other jobs involved in creating the media. It is important that when massive changes in an industry like this happens, we must accommodate for everyone.
 
 ### References
-About Netflix. (2025). 'Squid game' by the numbers: How player 456 took over the world - about Netflix. [online] Available at: https://about.netflix.com/en/news/squid-game-by-the-numbers-how-player-456-took-over-the-world [Accessed 7 Nov. 2026].
+About Netflix. (2025). ‘Squid game’ by the numbers: How player 456 took over the world - about Netflix. [online] Available at: https://about.netflix.com/en/news/squid-game-by-the-numbers-how-player-456-took-over-the-world [Accessed 7 Nov. 2026].
 
 Blockbuster Inc. (2011) Annual Report on Form 10-K for the fiscal year ended 2 January 2011. Available at: https://www.sec.gov/Archives/edgar/data/1085734/000119312511186981/d10k.htm (Accessed: 18 October 2026).
 
@@ -190,17 +190,25 @@ Competition and Markets Authority (2022) Music and streaming market study: final
 
 Data Protection Commission (n.d.) The right to be informed (transparency): Articles 13 and 14 GDPR. Available at: https://www.dataprotection.ie/en/individuals/know-your-rights/right-be-informed-transparency-article-13-14-gdpr (Accessed: 19 October 2026).
 
+EachMoment(2026) ‘The History of VHS: From Format War to Extinction’. Available at: https://www.eachmoment.co.uk/blog/history-of-vhs-format-war-to-extinction (Accessed: 14 November 2026).
+
 European Commission (n.d.) Digital contract rules. Available at: https://commission.europa.eu/topics/business-and-industry/contract-rules/digital-contracts/digital-contract-rules_en (Accessed: 18 October 2026).
 
 GameStop Corp. (2025) Annual Report on Form 10-K for the fiscal year ended 1 February 2025. Available at: https://www.sec.gov/Archives/edgar/data/1326380/000162828025014731/gme-20250201.htm (Accessed: 19 October 2026).
 
-Guha, P. (2023) 'Never Have I Ever: A Critical Analysis on the Role of Netflix in Promoting Multiculturalism', International Journal for Multidisciplinary Research, 5(5), pp. 1–13. doi: 10.36948/ijfmr.2023.v05i05.7252.
+Guha, P. (2023) ‘Never Have I Ever: A Critical Analysis on the Role of Netflix in Promoting Multiculturalism’, International Journal for Multidisciplinary Research, 5(5), pp. 1–13. doi: 10.36948/ijfmr.2023.v05i05.7252.
 
 Gul, H. (2023). Our interconnected world: Navigating A complex global landscape. [online] Earth. Available at: https://vocal.media/earth/our-interconnected-world-navigating-a-complex-global-landscape [Accessed 7 Nov. 2026].
 
-Jean K Chalaby (2023), The streaming industry and platform economy, 46(3),pp1-17 ,(Accessed 20 Nov 2026) Available at: https://journals.sagepub.com/doi/full/10.1177/01634437231210439.
+HISTORY.com Editors (n.d.) ‘The first Sony Walkman goes on sale’. HISTORY. Available at: https://www.history.com/this-day-in-history/July-1/the-first-sony-walkman-goes-on-sale (Accessed: 16 November 2026).
 
-Kuyucu, M. (2026) 'The growth of Spotify and the digital music industry', in Türkyılmaz, C.A. and Erdem, Ş. (eds.) Digital Marketing Transformation: Road Map and Marketing Concepts. Istanbul: Haliç Publishing House, pp. 317–342. doi: 10.38066/hy.57758zyk.hph.
+Kuyucu, M. (2026) ‘The growth of Spotify and the digital music industry’, in Türkyılmaz, C.A. and Erdem, Ş. (eds.) Digital Marketing Transformation: Road Map and Marketing Concepts. Istanbul: Haliç Publishing House, pp. 317–342. doi: 10.38066/hy.57758zyk.hph.
+
+Larcker, D.F. and Tayan, B. (2018) ‘Netflix Approach to Governance: Genuine Transparency with the Board’. Stanford Closer Look Series, 1 May. Available at: https://s22.q4cdn.com/959853165/files/doc_downloads/governance_docs/cl71_netflix.pdf (Accessed: 25 November 2026).
+
+Madden, M. (2009) ‘The State of Music Online: Ten Years After Napster’. Pew Research Center, 15 June. Available at: https://www.pewresearch.org/internet/2009/06/15/the-state-of-music-online-ten-years-after-napster-2/ (Accessed: 25 November 2026).
+
+Museum of Obsolete Media (n.d.) ‘Audio Media Timeline’. Available at: https://obsoletemedia.org/audio/audio-timeline/ (Accessed: 25 November 2026).
 
 Netflix (2026) Netflix Terms of Use. Available at: https://help.netflix.com/en/legal/termsofuse (Accessed: 20 October 2026).
 
@@ -210,17 +218,21 @@ Olito, F. and Bitter, A. (2020). The rise and fall of Blockbuster. [online] Busi
 
 Pollete, C. (2007). How streaming video and audio work. [online] Available at: https://electronics.howstuffworks.com/tech/streaming-video-and-audio.htm [Accessed 27 Oct. 2026].
 
-Rolling Stone (2018) 'The end of owning music: How CDs and downloads died', Rolling Stone, 19 April. Available at: https://www.rollingstone.com/pro/news/the-end-of-owning-music-how-cds-and-downloads-died-628660/ (Accessed: 19 October 2026).
+Rolling Stone (2018) ‘The end of owning music: How CDs and downloads died’, Rolling Stone, 19 April. Available at: https://www.rollingstone.com/pro/news/the-end-of-owning-music-how-cds-and-downloads-died-628660/ (Accessed: 19 October 2026).
 
-Salsabila, K. (2021) 'Netflix: Cultural Diversity or Cultural Imperialism?', Rubikon: Journal of Transnational American Studies, 8(1), pp. 15–27. doi: 10.22146/rubikon.v8i1.65480.
+Salsabila, K. (2021) ‘Netflix: Cultural Diversity or Cultural Imperialism?’, Rubikon: Journal of Transnational American Studies, 8(1), pp. 15–27. doi: 10.22146/rubikon.v8i1.65480.
+
+Sony (n.d.) ‘Volume 2 Chapter 7: Digitizing Music’. Sony Group History. Available at: https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html (Accessed: 25 November 2026).
 
 Sony Interactive Entertainment (n.d.) Software Usage Terms (UK). PlayStation. Available at: https://www.playstation.com/en-gb/legal/software-usage-terms.html/ (Accessed: 27 October 2026). 
 
 Sony Interactive Entertainment (2026) PlayStation Network Terms of Service. Available at: PlayStation official terms⁠￼ (Accessed: 5 November 2026).
 
-Tucker, B. (2025) 'Streaming fatigue', Octane Seating, 25 July. Available at: https://octaneseating.com/blog/streaming-fatigue/ (Accessed: 22 October 2026).
+Spotify (n.d.) ‘Spotify: A Visual History’. Spotify Newsroom. Available at: https://newsroom.spotify.com/spotify-timeline/ (Accessed: 25 November 2026).
 
-Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) 'Generation Z's media consumption preferences: A comparative study of podcasts, social media, and streaming platforms', Review on Economic Cycles, 7(1), pp. 5–23. doi: 10.69980/rec.v7i1.124.
+Tucker, B. (2025) ‘Streaming fatigue’, Octane Seating, 25 July. Available at: https://octaneseating.com/blog/streaming-fatigue/ (Accessed: 22 October 2026).
+
+Venkatesh, M., Sripriya, M. and Rajkamal, N. (2026) ‘Generation Z’s media consumption preferences: A comparative study of podcasts, social media, and streaming platforms’, Review on Economic Cycles, 7(1), pp. 5–23. doi: 10.69980/rec.v7i1.124.
 
 Whitten, S. (2019) 'The death of the DVD: Why sales dropped more than 86% in 13 years', CNBC, 8 November. Available at: https://www.cnbc.com/2019/11/08/the-death-of-the-dvd-why-sales-dropped-more-than-86percent-in-13-years.html (Accessed: 19 October 2026).
 
