@@ -111,7 +111,7 @@ I think that it's important that people shouldn't be left behind just because te
 
 
 #### Privacy and Personal Data 
-Privacy is another issue that is very important.The platforms that we use to stream (Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored.**
+Privacy is another issue that is very important.The platforms that we use to stream (Netlifx, Hulu, Disney Plus) can use our information about what we like to watch and listen in order to provide a personsalised recommendation based on our watched history.According to Ireland's Data Protection Commission(n.d.), under GDPR laws they must be clear and upfront about how personal information is used and stored.
 These watch recommendations can be useful, this shows how much personal information these companies can collect from their customers.Most users might not immediately realise how much of their information is stored and/or used.
 This is a huge privacy concern especially since most people agree to their terms and conditions without reading them properly and failing to fully understand them. Organisations must be clear  and upfront about how personal data is used under the GDPR laws. The streaming services that we use should be able to make privacy settings easier to understand and should give customers greater control over their watch history and especially their personal information.
 
