@@ -23,7 +23,7 @@ Cassette are magnetic analog tapes , this made physical media more consumer frie
 Sony and Philips brought out a the compact disc (CD), It's main purpose was to unify digital audio and film formats. It read music and film using a laser instead of a needle or tape , it brought much better audio quality than previous formats and proper switching ,rewind and sound skipping without gradual sound degradation associated with repeated cassette playback.
 
 
-This has been the way for physical media formats with future versions (MiniDisc , DVD etc) sharing the same design with each version improving sound quality , higher definition and larger storage capacity
+Other physical formats followed with future versions (MiniDisc , DVD etc) sharing the same design with each version improving sound quality , higher definition and larger storage capacity
 
 
 1998-Digital formats 
