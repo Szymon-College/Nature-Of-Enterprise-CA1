@@ -37,9 +37,9 @@ Napster was launched as an online music-sharing service, allowing users to share
 Apple's iTunes Music Store in 2003 came out which was a legal digital store backed by music labels, this made music labels happy as they had a way to earn money over the internet but threatened physical media with it being more convenient than physical.
 
 Streaming
-2007- Netflix introduced its online streaming service in 2007, allowing subscribers to watch films and television programmes over the internet rather than ordering physical DVDs by post. This helped transform home entertainment by making digital, on-demand viewing increasingly accessible.
+2007- Netflix introduced it's online streaming service in 2007, allowing users to watch films and television programmes over the internet . This was the end for Physical media films as after 2008 major stores like blockbuster and Extra-vision closed in the next years after Netflix   launched it's online streaming.
 
-In 2008 and onward, Spotify launched with it being rather than downloading individual songs or purchasing physical albums, consumers could access a large online music library and play tracks whenever they wanted.
+In 2008 , Spotify launched with it being that users could access a large online music library and play tracks whenever they wanted on the internet anytime.
 
 Streaming has since become a major source of income for the recorded music and film industry, while sales of physical music formats have declined. However, physical formats such as vinyl, CDs and DVDs continue to be sold and collected, meaning that physical media has not completely disappeared.
 
