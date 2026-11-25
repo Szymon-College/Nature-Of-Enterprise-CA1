@@ -16,7 +16,12 @@ Cassette are magnetic analog tapes , this made physical media more consumer frie
 1982-present-CDs and other discs psychical media
 Sony and Phillips brought out a the compact disc (CD), It's main purpose was to unify digital audio formats. It read music using a laser instead of a needle like a vinyl or tape rolling like a cassette , it brought much better audio quality than previous formats and proper switching ,rewind and sound skipping without gradual sound degradation associated with repeated cassette playback.
 
-This has been the way for physical media with future versions sharing the same design with each version improving sound quality 
+This has been the way for physical media audio formats with future versions (MiniDisc , DVD and blue-ray) sharing the same design with each version improving sound quality and higher storage captivity 
+
+1998-Present Digital audio formats
+This marked the major turning point to physical to 
+
+
 
 
 
@@ -35,34 +40,17 @@ The first cases of physical media for film were Vhs and Betamax which brought fi
 By time the 80's it was the golden age of Physical media for Films with rental stores popping up in many countries with the most famous being Blockbusters and for Ireland being Extra-vision. It was dai   
 
 
-# Gaming
-1977's- Before Physical games were built into consoles but Rom Cartridges were plastic shells meant to be connected to the system, this added the choice for the switching of games instead of a limited amount of games built into the system like hardwired games, The system read the rom chip which contained the data to run it. This made developers the option to create games for the system and 3rd party companies  which began the boom of the gaming market. This was the gold standard for many generation
-
-1990's to now -discs  
-The play station 1 was the first huge console to use discs with it being able to hold more information and real time cutscenes, This has been the physical media used for games with modern consoles still using it
-
-The slow fall- 2000's to now
-The seventh generation of consoles  added a feature, a shop built into the console were users could buy games on the console it self , this removed the middle man which are stores selling games and made consoles more in line with computers. The few generations of consoles saw more and more consoles without any physical media as disc where drives for the disc were not included as the console fully relied on the store for it's game. Disc sales dropped over the decade as more users opted in for online stores instead of buying physicals media. The diffe
-
-Subscription for games became more common as major gaming companies began selling monthly Subscription to access large collection of games.
-
--Today
-On July first of 2026 Sony announced that it will end disc production of their PlayStation consoles. This marked the end of psychical media for gaming as PlayStation held a majority share of the gaming market and them shutting it down could mean others would follow the same path. Heavy backlash on this annc
-
-Grand theft Auto Six has been the largest game of the decade to opt out for disc with them selling a case with a code. This marked as a big loss for major retailers as game sales has been mostly through the online space with benefits for buying online being a pre download where users could download the game before the game launched 
 
 
 
 
 -sources
 
-https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
-https://www.bbc.com/news/articles/c6210nj8gpro
 348804288_The_Death_of_Physical_Media_The_Dangers_of_The_Death_of_Physical_Media
-
 https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html
 https://www.eachmoment.co.uk/blog/history-of-vhs-format-war-to-extinction
 https://www.history.com/this-day-in-history/July-1/the-first-sony-walkman-goes-on-sale
+https://obsoletemedia.org/audio/audio-timeline/
 
 
 
