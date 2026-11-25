@@ -18,9 +18,18 @@ Sony and Phillips brought out a the compact disc (CD), It's main purpose was to 
 
 This has been the way for physical media audio formats with future versions (MiniDisc , DVD and blue-ray) sharing the same design with each version improving sound quality and higher storage captivity 
 
-1998-Present Digital audio formats
-This marked the major turning point to physical to 
+1998-Digital audio formats 
+This marked the major turning point to physical to the modern day streaming. First in 1998 a new format called MPEG Audio Layer III (MP3) which compressed music files, this meant that audio files could be played and stored on computers and the possibility of transforming  the file over the internet , this marked the beginning of physical to digital music 
 
+1999–2001 -Music File Sharing
+Napster was launched as an online music-sharing service, allowing users to share and download MP3 files directly from one another. this marked the first threat for physical media as Napster was a major success with it being a Illegal way to download music over the internet .
+
+2003-onward
+Services Apple's iTunes Music Store came out which was a legal online music-sharing service backed by music labels, this made music labels happy as they had a way to earn money over the internet but threatened physical media with it being more convenient than physical.
+
+
+
+ 
 
 
 
@@ -54,7 +63,13 @@ https://www.eachmoment.co.uk/blog/history-of-vhs-format-war-to-extinction
 
 https://www.history.com/this-day-in-history/July-1/the-first-sony-walkman-goes-on-sale
 
-https://obsoletemedia.org/audio/audio-timeline/
+https://obsoletemedia.org/audio/audio-timeline
+
+https://www.pewresearch.org/internet/2009/06/15/the-state-of-music-online-ten-years-after-napster-2/
+
+https://app.crb.gov/document/download/12201
+
+
 
 
 
