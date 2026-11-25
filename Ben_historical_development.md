@@ -6,7 +6,7 @@
 The first case of physical media was around 1878 when the was invented phonograph cylinder where it was the first case of recording media and reproducing media, it worked using a waxed cylinder and with a stylus would etch waveforms into the cylinder  when played with a needle moved by a vibrating membrane would generate sound that was recorded, The material changed from wax to metal to help perseve after long use
 
 1889-Vinyl
-This used the same idea of the phonograph cylinder where instead of a waxed/metal cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound.
+This used the same idea of the phonograph cylinder where instead of a waxed/metal cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound. 
 
 1963-Cassette 
 Cassette are magnetic analog tapes , this made physical media more consumer friendly and they were more sturdy and less is size than Vinyl making on the go travel much easier 
