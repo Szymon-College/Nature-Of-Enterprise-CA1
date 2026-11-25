@@ -4,13 +4,42 @@
 * Ben Fitzpatrick A00068963
 * Krystian Nowocien A00066175
 * Leonard Mihailescu B00145799
----
+
+## Total word count: 3337
 ### Introduction
 This case study examines the change in how people consume media and changing their habits and how businesses deliver and produce media through the transformation of streaming services. Streaming any form of media from a server to a user's device requires the internet. The data of the media gets sent to a user's device by a server through the internet where the user can consume their media without the need of downloading the media file (Pollete, 2024). Streaming is often associated with videos, but it can be done with any form of media such as music and games as well.
 
 This sudden shift of media consumption does not just affect consumers and businesses that provide streaming services, but other related businesses such as the extinct businesses that rented media to consumers are also affected. The world has been becoming more interconnected as ever before and this includes all things streaming related. People can watch movies and shows produced from one country despite living in a different country where they do not speak the language the media was produced in (Gul, 2023). One widely known example of this was Squid Game which was a show that was produced in South Korea and gained popularity in 2021 (About Netflix, 2025).
 
 This topic will be looked at through two different viewpoints, societal and business. People are willing to trade ownership of their media for comfort and convenience for an ongoing fee. With the newer generation having better access and understanding of streaming, they are beginning to form unhealthy consumption habits around streaming services. Some businesses have died and some have flourished as streaming media has become more mainstream. Video rental businesses such as Blockbuster filed for bankruptcy in 2010 (Bitter and Olito, 2023) whilst newer streaming services such as Disney+ prospered as they gained a steady stream of income in a highly scalable environment. These perspectives will analyse how the media and related industries and the everyday lives of people have been affected on a global scale.
+
+### Historical development
+
+1877-78-Phonograph The first case of physical media was the invented phonograph in 1877, invented by Thomas Edison. The device was a cylinder wrapped in tinfoil to record and reproduce sound.
+
+1889-Vinyl A disc-shape design , it used a needle liked the phonograph which would moved on the grove of it's surface to reproduce the sound. The vinyl Became the main use to record and listen to sound during this era.
+
+1963-Cassette Cassette are magnetic analog tapes , this made physical media more consumer friendly as they were more sturdy and less bulky than Vinyl. Cassettes fit easily into pockets, bags and car stereos in which Vinyl could not , With Vinyls being a fixed location
+
+1970-90 The first cases of physical media for film were the VHS and Betamax , these formats used magnetic tape to record and show film.
+
+1979-Walkman Sony brought out the Walkman which used cassettes to play sounds in a small device, this was a stand out for physical media in music as it helped bring Cassettes to more homes across the world and outside the home with it's portability
+
+1982-present-CDs Sony and Philips brought out a the compact disc (CD), It's main purpose was to unify digital audio and film formats. It read music and film using a laser instead of a needle or tape , it brought much better audio quality than previous formats and proper switching, rewind and sound skipping without gradual sound degradation associated with repeated cassette playback.
+
+Other physical formats followed with future versions (MiniDisc , DVD etc) sharing the same design with each version improving sound quality , higher definition and larger storage capacity
+
+1998-Digital formats This marked the major turning point to physical to the modern day streaming. First in 1998 a new format called MPEG Audio Layer III (MP3) which compressed music files, this meant that audio files could be played and stored on computers and the possibility of transforming the file over the internet , this marked the beginning of physical to digital music.
+
+1999–2003 -Music File Sharing and online store Napster was launched as an online music-sharing service, allowing users to share and download MP3 files directly from one another. this marked the first threat for physical media as Napster was a major success with it being a Illegal way to download music over the internet .
+
+Apple's iTunes Music Store in 2003 came out which was a legal digital store backed by music labels, this made music labels happy as they had a way to earn money over the internet but threatened physical media with it being more convenient than physical.
+
+Streaming 2007- Netflix introduced it's online streaming service in 2007, allowing users to watch films and television programmes over the internet . This was the end for Physical media films as after 2008 major stores like blockbuster and Extra-vision closed in the next years after Netflix launched it's online streaming.
+
+In 2008 , Spotify launched with it being that users could access a large online music library and play tracks whenever they wanted on the internet anytime.
+
+Streaming has since become a major source of income for the recorded music and film industry, while sales of physical music formats have declined. However, physical formats such as vinyl, CDs and DVDs continue to be sold and collected, meaning that physical media has not completely disappeared.
 
 ### Societal Analysis
 #### Consumer behaviour
@@ -53,7 +82,6 @@ Language options in Netflix (Netflix, reproduced in Shore, 2022)
 Engaging in traditional Korean games inspired from 'Netflix - Squid Games' in New York (Korea Tourism Organization, 2021)
 
 ### Business Analysis
-
 Streaming video subscription and video advertising revenues have raced higher as a result rising from just over 2 billion $ in combined revenues into 2010 to likey surpassing the 100 billion $ mark by 2026. while some of streaming's headlong growth has come at the expense of traditional multichannel,TV network and film renvenue streams,impacts have varied widely.Media giants including Disney comcast/NBCU, paramount and fox Corp.Have also leaned heavily into the streaming model, aiming to offset declining traditional TV revenues with digital dollars.
 
 The media industry has changed dramatically.First transitioning from analogue to digital, then SD to HD and UHD also from SDI to IP.Add the shift consumer habits to these technological milestones and you have an almost unrecognisable entity compared to the one that existed only 15 to 20 years ago.
