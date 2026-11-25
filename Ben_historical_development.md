@@ -6,12 +6,12 @@
 The first case of physical media was the invented phonograph in 1877, invented by Thomas Edison. The device was a cylinder wrapped in tinfoil to record and reproduce sound. 
 
 1889-Vinyl
-This used the same idea of the phonograph cylinder where instead of a waxed/metal cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound. 
+A disc shape plate , it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound. 
 
 1963-Cassette 
 Cassette are magnetic analog tapes , this made physical media more consumer friendly as they were more sturdy and less bulky than Vinyl. Cassettes fit easily into pockets, bags, car stereos making consumers in which the vinyl could not , being more than a fixed location. 
 
-1970-90-The first cases of physical media for film were the VHS and Beta-max , these formats used magnetic tape to record and show film.
+1970-90 The first cases of physical media for film were the VHS and Beta-max , these formats used magnetic tape to record and show film.
 
 1979-Walkman Sony brought out the Walkman which used cassettes to play sounds in a small devices, this was a stand out for psychical media in music as it helped bring Cassettes to more homes across the world and outside the home with it's portability 
 
