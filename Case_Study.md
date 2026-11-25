@@ -42,7 +42,7 @@ Streaming has since become a major source of income for the recorded music and f
 
 ### Societal Analysis
 #### Consumer behaviour
-Before the era of cloud streaming platforms, the option to buying films and music were through stores such as Xtra-vision, HMV and Golden Discs where they sold DVDs, VHS tapes and CDs. As streaming platforms had became known, there was less of a need for consumers to go to these stores as films and music could now be accessed online. It made an impact on DVD sales and it began to plummet as data shows it dropped by "86 percent" and platforms like Netflix and HBO showed a sale increase, "1231 percent", which is "$12.9 billion" in the US market (Whitten, 2019).
+Before the era of cloud streaming platforms, the option to buying films and music were through stores such as Xtra-vision, HMV and Golden Discs where they consist in DVDs, VHS tapes and CDs. As streaming platforms had became known, there were less of a need for consumers to go to these stores as films and music could now be accessed online. It made an impact on DVD sales and it began to plummet as data shows it dropped by "86 percent" and platforms like Netflix and HBO showed a sale increase, "1231 percent", which is "$12.9 billion" in the US market (Whitten, 2019).
 
 Music was subjected similarly as films as Spotify was introduced in 2008 to prevent music piracy as it holds a large collection of music and it had "on-demand playback" and "offline listening" features which made it more consumer friendly. In 2010, there were "10 million" users (Kuyucu, 2026, p. 322) so CD sales dropped by "80 percent" from "450 million to 89 million" (Knopper, 2018) which shows more consumers opted in for music streaming instead of buying CDs.
 
