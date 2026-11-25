@@ -14,7 +14,7 @@ This sudden shift of media consumption does not just affect consumers and busine
 This topic will be looked at through two different viewpoints, societal and business. People are willing to trade ownership of their media for comfort and convenience for an ongoing fee. With the newer generation having better access and understanding of streaming, they are beginning to form unhealthy consumption habits around streaming services. Some businesses have died and some have flourished as streaming media has become more mainstream. Video rental businesses such as Blockbuster filed for bankruptcy in 2010 (Bitter and Olito, 2023) whilst newer streaming services such as Disney+ prospered as they gained a steady stream of income in a highly scalable environment. These perspectives will analyse how the media and related industries and the everyday lives of people have been affected on a global scale.
 
 ### Historical development
-1877-78-Phonograph The first case of physical media was the invented phonograph in 1877, invented by Thomas Edison. The device was a cylinder wrapped in tinfoil to record and reproduce sound.
+1877-78 Phonograph The first case of physical media was the invented phonograph in 1877, invented by Thomas Edison. The device was a cylinder wrapped in tinfoil to record and reproduce sound.
 
 1889-Vinyl A disc-shape design , it used a needle liked the phonograph which would moved on the grove of it's surface to reproduce the sound. The vinyl Became the main use to record and listen to sound during this era.
 
