@@ -9,13 +9,12 @@ The first case of physical media was around 1878 when the was invented phonograp
 This used the same idea of the phonograph cylinder where instead of a waxed/metal cylinder it used a disc shape, it used a needle liked the phonograph which would moved on the grove of the vinyl to reproduce the sound. The vinyl Became the main use to record and listen to sound. 
 
 1963-Cassette 
-Cassette are magnetic analog tapes , this made physical media more consumer friendly and they were more sturdy and less is size than Vinyl making on the go travel much easier 
+Cassette are magnetic analog tapes , this made physical media more consumer friendly and they were more sturdy and less bulky than Vinyl. Cassettes fit easily into pockets, bags, car stereos making consumers have larger range than vinyls in how they want to listen to music/ audio 
 
 1979-Walkman Sony brought out the Walkman which used cassettes to record and play sounds, this was a stand out for psychical media
 
 CDs 
-
-*rise of music in the digital space with computers holding more st
+Thus was a huge change for for 
 
 
 
@@ -30,7 +29,7 @@ CDs
 1970's-80's 
 The first cases of physical media for film were Vhs and Betamax which brought film to a wider audience , these formats used magnetic tape to record and show film. both were in  a format war until Vhs became the standard for physical due to it's longer recording times beating Betamax by a full hour. 
 
-By time the 80's it was the golden age of Physical media for Films with rental stores popping up in many countries with the most famous being Blockbusters and for Ireland being Extra-vision   
+By time the 80's it was the golden age of Physical media for Films with rental stores popping up in many countries with the most famous being Blockbusters and for Ireland being Extra-vision. It was dai   
 
 
 # Gaming
