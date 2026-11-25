@@ -10,3 +10,5 @@ While VOD pre-existed streaming and was developed by cable and sateilite pay-TV 
 
 Streaming platforms innovate on two other counts. First, they  are scaling up these monetization models. Pay-Tv services operated on a national or multinational basis. The world's largest, sky, has developed a presence in a handful of European territories and claims around 17 million customers. Broadcasting was a national industry that progressively internationalized, streaming is a global business that is progressively localizing. No platform is born global and even Netflix waited several years before crossing borders(Randolph,2019).
 
+References 
+Jean K Chalaby (2023), The streaming industry and platform economy, 46(3),pp1-17 ,(Accessed 20 Nov 2026) Available at: https://journals.sagepub.com/doi/full/10.1177/01634437231210439
