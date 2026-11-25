@@ -170,6 +170,8 @@ Guha, P. (2023) 'Never Have I Ever: A Critical Analysis on the Role of Netflix i
 
 Gul, H. (2023). Our interconnected world: Navigating A complex global landscape. [online] Earth. Available at: https://vocal.media/earth/our-interconnected-world-navigating-a-complex-global-landscape [Accessed 7 Nov. 2026].
 
+Jean K Chalaby (2023), The streaming industry and platform economy, 46(3),pp1-17 ,(Accessed 20 Nov 2026) Available at: https://journals.sagepub.com/doi/full/10.1177/01634437231210439.
+
 Kuyucu, M. (2026) 'The growth of Spotify and the digital music industry', in Türkyılmaz, C.A. and Erdem, Ş. (eds.) Digital Marketing Transformation: Road Map and Marketing Concepts. Istanbul: Haliç Publishing House, pp. 317–342. doi: 10.38066/hy.57758zyk.hph.
 
 Netflix (2026) Netflix Terms of Use. Available at: https://help.netflix.com/en/legal/termsofuse (Accessed: 20 October 2026).
