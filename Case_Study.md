@@ -226,7 +226,7 @@ Sony (n.d.) ‘Volume 2 Chapter 7: Digitizing Music’. Sony Group History. Avai
 
 Sony Interactive Entertainment (n.d.) Software Usage Terms (UK). PlayStation. Available at: https://www.playstation.com/en-gb/legal/software-usage-terms.html/ (Accessed: 27 October 2026). 
 
-Sony Interactive Entertainment (2026) PlayStation Network Terms of Service. Available at: PlayStation official terms⁠￼ (Accessed: 5 November 2026).
+Sony Interactive Entertainment (2026) PlayStation Network Terms of Service. Available at: https://www.playstation.com/en-us/legal/terms-of-service/ (Accessed: 5 November 2026).
 
 Spotify (n.d.) ‘Spotify: A Visual History’. Spotify Newsroom. Available at: https://newsroom.spotify.com/spotify-timeline/ (Accessed: 25 November 2026).
 
