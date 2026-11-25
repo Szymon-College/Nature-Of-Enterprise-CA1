@@ -48,8 +48,11 @@ By time the 80's it was the golden age of Physical media for Films with rental s
 
 348804288_The_Death_of_Physical_Media_The_Dangers_of_The_Death_of_Physical_Media
 https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html
+
 https://www.eachmoment.co.uk/blog/history-of-vhs-format-war-to-extinction
+
 https://www.history.com/this-day-in-history/July-1/the-first-sony-walkman-goes-on-sale
+
 https://obsoletemedia.org/audio/audio-timeline/
 
 
